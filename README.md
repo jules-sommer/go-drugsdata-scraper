@@ -16,9 +16,14 @@ The Go DrugBank Scraper is a sophisticated ( ehm... messy but functional ) web s
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jules-sommer/go-drugbank-scraper.git
+   gh repo clone jules-sommer/go-drugsdata-scraper
    ```
-2. **Install Dependencies**:
+   *or*
+   ```bash
+   git clone https://github.com/jules-sommer/go-drugsdata-scraper
+   ```
+   - I think the first is generally preferable on Unix machines, as it is on my copy of Ubuntu, and the later on Windows; but I don't rightly know why there are two commands and CLIs for git.
+3. **Install Dependencies**:
    Navigate to the cloned directory and install necessary Go modules:
    ```bash
    cd go-drugbank-scraper
