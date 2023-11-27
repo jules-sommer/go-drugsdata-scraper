@@ -15,31 +15,30 @@ The Go DrugBank Scraper is a sophisticated ( ehm... messy but functional ) web s
 
 ### Installation
 1. **Clone the Repository**:
-   \`\`\`bash
-   git clone https://github.com/yourusername/go-drugbank-scraper.git
-   \`\`\`
+   ```bash
+   git clone https://github.com/jules-sommer/go-drugbank-scraper.git
+   ```
 2. **Install Dependencies**:
    Navigate to the cloned directory and install necessary Go modules:
-   \`\`\`bash
+   ```bash
    cd go-drugbank-scraper
    go mod tidy
-   \`\`\`
+   ```
 
 ### Usage
 Execute the scraper with command-line arguments to define the scraping mode:
 1. **Scraping by Page Range**:
-   \`\`\`bash
-   go run main.go numPages <number_of_pages>
-   \`\`\`
-   Note: As of writing, the maximum number of pages available for scraping is 508. There's a to-do in place to automatically detect the number of available pages in the future.
-2. **Scraping by Drug ID**:
-   \`\`\`bash
-   go run main.go ID <4_digit_drugbank_id>
-   \`\`\`
-   Input the DrugBank ID as a 4-digit integer (e.g., 0123). The prefix "DB0" will be automatically added to the ID. As of now, specifying the prefix manually is not supported. Future updates will include features to fuzz the IDs and thus the pages to scrape.
+   ```bash
+   go run main.go <MODE={ID,numPages}> <number_of_pages>
+   ```
+#### Modes
+1. Page Range: [0-508]: As of writing, the maximum number of pages available for scraping is 508. There's a to-do in place to automatically detect the number of available pages in the future.
+2. Single ID: use `ID` as the value for `MODE` cli arg, then enter the prompted value at runtime. Input the DrugBank ID as a 4-digit integer (e.g., 0123). The prefix "DB0" will be automatically added to the ID. As of now, specifying the prefix manually is not supported. Future updates will include features to fuzz the IDs and thus the pages to scrape.
+
+    ***[NOTE]***: Currently the program prompts at runtime for the actual value of the ID or numPages args, this will be supported both ways in future.
 
 ### Contributing
-We welcome contributions! For guidelines on how to contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md).
+I welcome contributions! For guidelines on how to contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
