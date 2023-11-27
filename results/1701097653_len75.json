@@ -1,0 +1,2492 @@
+[
+    {
+        "smiles": "CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C",
+        "id": "DB18097",
+        "molecule": "(-)-beta-Elemene",
+        "cas": "515-13-9",
+        "inchi": {
+            "hash": "OPFTUNCRGUEPRZ-QLFBSQMISA-N",
+            "id": "InChI=1S/C15H24/c1-7-15(6)9-8-13(11(2)3)10-14(15)12(4)5/h7,13-14H,1-2,4,8-10H2,3,5-6H3/t13-,14+,15+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 204.357,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 204.187800773,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB18097",
+        "type": "Small Molecule",
+        "synonyms": [
+            ".beta.-elemene",
+            "(-)-.beta.-elemene",
+            "(-)-B-elemene",
+            "(-)-beta-Elemene",
+            "Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1s,2s,4r)-",
+            "Elemene, (-)-.beta.-"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "OC\\C(C)=C\\C=C\\C(\\C)=C/C=C/C=C(/C)\\C=C\\C=C(/C)\\C=C\\C1=C(C)C[C@@H](O)CC1(C)C",
+        "id": "DB02253",
+        "molecule": "(1r)-4-[(1e,3e,5e,7z,9e,11z,13e,15e)-17-Hydroxy-3,7,12,16-Tetramethylheptadeca-1,3,5,7,9,11,13,15-Octaen-1-Yl]-3,5,5-Trimethylcyclohex-3-En-1-Ol",
+        "iupac_name": "(1R)-4-[(1E,3E,5E,7Z,9E,11Z,13E,15E)-17-hydroxy-3,7,12,16-tetramethylheptadeca-1,3,5,7,9,11,13,15-octaen-1-yl]-3,5,5-trimethylcyclohex-3-en-1-ol",
+        "inchi": {
+            "hash": "FNAJVVMDXCOSFY-VFGOXHQXSA-N",
+            "id": "InChI=1S/C30H42O2/c1-23(12-8-9-13-24(2)15-11-17-26(4)22-31)14-10-16-25(3)18-19-29-27(5)20-28(32)21-30(29,6)7/h8-19,28,31-32H,20-22H2,1-7H3/b9-8+,14-10+,15-11+,19-18+,23-12-,24-13-,25-16+,26-17+/t28-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 434.6533,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 434.318480588,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as triterpenoids. These are terpene molecules containing six isoprene units.",
+        "link": "https://go.drugbank.com/drugs/DB02253",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Synechocystis sp. (strain PCC 6803 / Kazusa)",
+                "target": "UApocarotenoid-15,15'-oxygenase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@](CS(=O)(=O)CC1=C(OC(F)F)C=CC=C1)(OC(=O)N1CCOCC1)C(=O)NCC#N",
+        "id": "DB08195",
+        "molecule": "(1R)-2-[(CYANOMETHYL)AMINO]-1-({[2-(DIFLUOROMETHOXY)BENZYL]SULFONYL}METHYL)-2-OXOETHYL MORPHOLINE-4-CARBOXYLATE",
+        "iupac_name": "(1R)-1-[(cyanomethyl)carbamoyl]-2-{[2-(difluoromethoxy)phenyl]methanesulfonyl}ethyl morpholine-4-carboxylate",
+        "inchi": {
+            "hash": "YKWHKILAGONYKL-HNNXBMFYSA-N",
+            "id": "InChI=1S/C18H21F2N3O7S/c19-17(20)29-14-4-2-1-3-13(14)11-31(26,27)12-15(16(24)22-6-5-21)30-18(25)23-7-9-28-10-8-23/h1-4,15,17H,6-12H2,(H,22,24)/t15-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 461.437,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 461.106827141,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as morpholine carboxylic acids. These are heterocyclic compounds containing a morpholine ring substituted by one or more carboxylic acid groups.",
+        "link": "https://go.drugbank.com/drugs/DB08195",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCathepsin S"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCOC1=CC=C(C=C1)S(=O)(=O)N1C[C@H](C[C@@H]1C(=O)NO)NS(C)(=O)=O",
+        "id": "DB02367",
+        "molecule": "(1n)-4-N-Butoxyphenylsulfonyl-(2r)-N-Hydroxycarboxamido-(4s)-Methanesulfonylamino-Pyrrolidine",
+        "iupac_name": "(2R,4S)-1-(4-butoxybenzenesulfonyl)-N-hydroxy-4-methanesulfonamidopyrrolidine-2-carboxamide",
+        "inchi": {
+            "hash": "ULDXUWXTVRRUND-SWLSCSKDSA-N",
+            "id": "InChI=1S/C16H25N3O7S2/c1-3-4-9-26-13-5-7-14(8-6-13)28(24,25)19-11-12(18-27(2,22)23)10-15(19)16(20)17-21/h5-8,12,15,18,21H,3-4,9-11H2,1-2H3,(H,17,20)/t12-,15+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 435.516,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 435.113391549,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as proline and derivatives. These are compounds containing proline or a derivative thereof resulting from reaction of proline at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.",
+        "link": "https://go.drugbank.com/drugs/DB02367",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UStromelysin-1"
+            }
+        ]
+    },
+    {
+        "smiles": "CN1C=CN=C1C(=O)C1=C(C)C2=C(O1)C=CC=C2OCCCNCC1=CN=CC=C1",
+        "id": "DB03062",
+        "molecule": "(1-Methyl-1h-Imidazol-2-Yl)-(3-Methyl-4-{3-[(Pyridin-3-Ylmethyl)-Amino]-Propoxy}-Benzofuran-2-Yl)-Methanone",
+        "iupac_name": "(3-{[3-methyl-2-(1-methyl-1H-imidazole-2-carbonyl)-1-benzofuran-4-yl]oxy}propyl)[(pyridin-3-yl)methyl]amine",
+        "inchi": {
+            "hash": "VZBQJKIOAOUYJL-UHFFFAOYSA-N",
+            "id": "InChI=1S/C23H24N4O3/c1-16-20-18(29-13-5-10-25-15-17-6-4-9-24-14-17)7-3-8-19(20)30-22(16)21(28)23-26-11-12-27(23)2/h3-4,6-9,11-12,14,25H,5,10,13,15H2,1-2H3"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.4617,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.184840654,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzofurans. These are organic compounds containing a benzene ring fused to a furan. Furan is a five-membered aromatic ring with four carbon atoms and one oxygen atom.",
+        "link": "https://go.drugbank.com/drugs/DB03062",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlycylpeptide N-tetradecanoyltransferase 1"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Yeast",
+                "target": "UGlycylpeptide N-tetradecanoyltransferase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]12CO[C@@]([H])(N1C(=S)NCCCCCCCC)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O",
+        "id": "DB08260",
+        "molecule": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",
+        "iupac_name": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",
+        "background": "(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide is a solid. This compound belongs to the oxepanes. These are compounds containing an oxepane ring, which is an a seven-member saturated aliphatic heterocycle with one oxygen and six carbon atoms. This drug targets the protein beta-glucosidase A.\n",
+        "inchi": {
+            "hash": "LFSNQOFOMJLHIW-MEBFFEOJSA-N",
+            "id": "InChI=1S/C15H28N2O4S/c1-2-3-4-5-6-7-8-16-15(22)17-10-9-21-14(17)13(20)12(19)11(10)18/h10-14,18-20H,2-9H2,1H3,(H,16,22)/t10-,11+,12-,13+,14+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 332.459,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 332.176978084,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as oxepanes. These are compounds containing an oxepane ring, which is a seven-member saturated aliphatic heterocycle with one oxygen and six carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB08260",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)",
+                "target": "UBeta-glucosidase A"
+            }
+        ]
+    },
+    {
+        "smiles": "ON1CCCC(C1=O)P(O)(O)=O",
+        "id": "DB17108",
+        "molecule": "(1-Hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+        "cas": "2004714-32-1",
+        "iupac_name": "(1-hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+        "inchi": {
+            "hash": "DVZQUMSQEGOYMX-UHFFFAOYSA-N",
+            "id": "InChI=1S/C5H10NO5P/c7-5-4(12(9,10)11)2-1-3-6(5)8/h4,8H,1-3H2,(H2,9,10,11)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 195.111,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 195.029659424,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB17108",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Phosphonic acid, p-(1-hydroxy-2-oxo-3-piperidinyl)-"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@]1(CC#N)CC[C@@]2([H])[C@]3([H])CCC4=CC(OS(N)(=O)=O)=C(OC)C=C4[C@@]3([H])CC[C@]12C",
+        "id": "DB07596",
+        "molecule": "(17beta)-17-(cyanomethyl)-2-methoxyestra-1(10),2,4-trien-3-yl sulfamate",
+        "iupac_name": "(1R,3aS,3bS,9bS,11aR)-1-(cyanomethyl)-8-methoxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-yl sulfamate",
+        "inchi": {
+            "hash": "NTSPHKOMJMBWOU-NNKXXINSSA-N",
+            "id": "InChI=1S/C21H28N2O4S/c1-21-9-7-15-16(18(21)6-4-14(21)8-10-22)5-3-13-11-20(27-28(23,24)25)19(26-2)12-17(13)15/h11-12,14-16,18H,3-9H2,1-2H3,(H2,23,24,25)/t14-,15+,16-,18+,21-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.523,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.176978084,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as estrane steroids. These are steroids with a structure based on the estrane skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07596",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCarbonic anhydrase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C",
+        "id": "DB14136",
+        "molecule": "(-)-menthol 1-propylene glycol carbonate",
+        "cas": "260781-16-6",
+        "iupac_name": "1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol",
+        "inchi": {
+            "hash": "FLYJSXDJKBHQAU-IBSWDFHHSA-N",
+            "id": "InChI=1S/C14H26O4/c1-9(2)12-6-5-10(3)7-13(12)18-14(16)17-8-11(4)15/h9-13,15H,5-8H2,1-4H3/t10-,11?,12+,13-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 258.358,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 258.183109317,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14136",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(-)-menthol (+/-)-1-propylene glycol carbonate",
+            "2-hydroxypropyl ((1R,2S,5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate",
+            "Carbonic acid, 2-hydroxypropyl (1R,2S,5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester",
+            "Fema no. 3806, 1-propylene glycol carbonate"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "CC\\C=C/C\\C=C/C[C@@H](O)\\C=C\\C=C/C\\C=C/CCCC(O)=O",
+        "id": "DB15571",
+        "molecule": "(12R)-12-hydroxyeicosapentaenoic acid",
+        "cas": "109430-12-8",
+        "iupac_name": "(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid",
+        "inchi": {
+            "hash": "MCRJLMXYVFDXLS-IHWYZUJNSA-N",
+            "id": "InChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h3-4,7-11,13-14,17,19,21H,2,5-6,12,15-16,18H2,1H3,(H,22,23)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 318.457,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 318.219494826,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB15571",
+        "type": "Small Molecule",
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@]1(CC#N)CC[C@@]2([H])[C@]3([H])CCC4=CC(OS(N)(=O)=O)=C(OC)C=C4[C@@]3([H])CC[C@]12C",
+        "id": "DB07596",
+        "molecule": "(17beta)-17-(cyanomethyl)-2-methoxyestra-1(10),2,4-trien-3-yl sulfamate",
+        "iupac_name": "(1R,3aS,3bS,9bS,11aR)-1-(cyanomethyl)-8-methoxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-yl sulfamate",
+        "inchi": {
+            "hash": "NTSPHKOMJMBWOU-NNKXXINSSA-N",
+            "id": "InChI=1S/C21H28N2O4S/c1-21-9-7-15-16(18(21)6-4-14(21)8-10-22)5-3-13-11-20(27-28(23,24)25)19(26-2)12-17(13)15/h11-12,14-16,18H,3-9H2,1-2H3,(H2,23,24,25)/t14-,15+,16-,18+,21-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.523,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.176978084,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as estrane steroids. These are steroids with a structure based on the estrane skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07596",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCarbonic anhydrase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H]N([H])C1=NC(=O)C2=C(C=CC(C[C@@H](C(O)=O)C3=CC=C(C=C3)C(=O)N([H])[C@@H](CCC(O)=O)C(O)=O)=C2)N1[H]",
+        "id": "DB04264",
+        "molecule": "(10R)-10-formyl-5,8,10-trideazafolic acid",
+        "iupac_name": "(2S)-2-({4-[(1R)-2-(2-amino-4-oxo-1,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}formamido)pentanedioic acid",
+        "inchi": {
+            "hash": "DAOQLLQRJAXMGY-PBHICJAKSA-N",
+            "id": "InChI=1S/C23H22N4O8/c24-23-26-16-6-1-11(10-15(16)20(31)27-23)9-14(21(32)33)12-2-4-13(5-3-12)19(30)25-17(22(34)35)7-8-18(28)29/h1-6,10,14,17H,7-9H2,(H,25,30)(H,28,29)(H,32,33)(H,34,35)(H3,24,26,27,31)/t14-,17+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 482.4428,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 482.1437637,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as glutamic acid and derivatives. These are compounds containing glutamic acid or a derivative thereof resulting from reaction of glutamic acid at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.",
+        "link": "https://go.drugbank.com/drugs/DB04264",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UPhosphoribosylglycinamide formyltransferase"
+            }
+        ]
+    },
+    {
+        "smiles": "C[C@H](O)CBr",
+        "id": "DB03335",
+        "molecule": "(+)-1-bromo-2-propanol",
+        "cas": "16088-60-1",
+        "iupac_name": "(2S)-1-bromopropan-2-ol",
+        "inchi": {
+            "hash": "WEGOLYBUWCMMMY-VKHMYHEASA-N",
+            "id": "InChI=1S/C3H7BrO/c1-3(5)2-4/h3,5H,2H2,1H3/t3-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 138.991,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 137.968027493,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bromohydrins. These are alcohols substituted by a bromine atom at a saturated carbon atom otherwise bearing only hydrogen or hydrocarbyl groups.",
+        "link": "https://go.drugbank.com/drugs/DB03335",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(S)-(+)-1-Bromo-2-propanol"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Pseudomonas paucimobilis",
+                "target": "UHaloalkane dehalogenase"
+            }
+        ]
+    },
+    {
+        "smiles": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1O",
+        "id": "DB11344",
+        "molecule": "(+)-menthol",
+        "cas": "15356-60-2",
+        "iupac_name": "(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol",
+        "inchi": {
+            "hash": "NOOLISFMXDJSKH-AEJSXWLSSA-N",
+            "id": "InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 156.269,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 156.151415264,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as menthane monoterpenoids. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone. P-menthane consists of the cyclohexane ring with a methyl group and a (2-methyl)-propyl group at the 1 and 4 ring position, respectively. The o- and m- menthanes are much rarer, and presumably arise by alkyl migration of p-menthanes.",
+        "link": "https://go.drugbank.com/drugs/DB11344",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-(1S,2R,5S)-menthol",
+            "(+)-(1S,3S,4R)-menthol",
+            "(1S,2R,5S)-(+)-menthol",
+            "(1S,2R,5S)-menthol",
+            "D-menthol"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@]1(N(C(C)=O)C2=CC=CC(O)=C2NC2=C1C(=O)CC(C)(C)C2)C1=C(Cl)C=C(Cl)C=C1",
+        "id": "DB08747",
+        "molecule": "(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",
+        "iupac_name": "(10R)-9-acetyl-10-(2,4-dichlorophenyl)-4-hydroxy-14,14-dimethyl-2,9-diazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7-tetraen-12-one",
+        "inchi": {
+            "hash": "JJTPPGUNMJMPLY-QFIPXVFZSA-N",
+            "id": "InChI=1S/C23H22Cl2N2O3/c1-12(28)27-17-5-4-6-18(29)21(17)26-16-10-23(2,3)11-19(30)20(16)22(27)14-8-7-13(24)9-15(14)25/h4-9,22,26,29H,10-11H2,1-3H3/t22-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 445.338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 444.100747994,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzodiazepines. These are organic compounds containing a benzene ring fused to either isomers of diazepine(unsaturated seven-member heterocycle with two nitrogen atoms replacing two carbon atoms).",
+        "link": "https://go.drugbank.com/drugs/DB08747",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "",
+                "target": "UGenome polyprotein"
+            }
+        ]
+    },
+    {
+        "smiles": "O\\N=C1/CCC2=CC(=CC=C12)C1=CN(N=C1C1=CC=NC=C1)C1CCNCC1",
+        "id": "DB08553",
+        "molecule": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",
+        "iupac_name": "N-[(1E)-5-[1-(piperidin-4-yl)-3-(pyridin-4-yl)-1H-pyrazol-4-yl]-2,3-dihydro-1H-inden-1-ylidene]hydroxylamine",
+        "background": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime is a solid. This compound belongs to the phenylpyrazoles. These are compounds containing a phenylpyrazole skeleton, which consists of a pyrazole bound to a phenyl group. It targets the protein serine/threonine-protein kinase B-raf.\n",
+        "inchi": {
+            "hash": "KWEFZSZCLBHIEQ-YYADALCUSA-N",
+            "id": "InChI=1S/C22H23N5O/c28-26-21-4-2-16-13-17(1-3-19(16)21)20-14-27(18-7-11-24-12-8-18)25-22(20)15-5-9-23-10-6-15/h1,3,5-6,9-10,13-14,18,24,28H,2,4,7-8,11-12H2/b26-21+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 373.4509,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 373.190260383,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indanes. These are compounds containing an indane moiety, which consists of a cyclopentane fused to a benzene ring.",
+        "link": "https://go.drugbank.com/drugs/DB08553",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "USerine/threonine-protein kinase B-raf"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB06931",
+        "molecule": "(1-HYDROXYNONANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+        "iupac_name": "(1-hydroxy-1-phosphonononyl)phosphonic acid",
+        "inchi": {
+            "hash": "COHUUYPEYRMWTH-UHFFFAOYSA-N",
+            "id": "InChI=1S/C9H22O7P2/c1-2-3-4-5-6-7-8-9(10,17(11,12)13)18(14,15)16/h10H,2-8H2,1H3,(H2,11,12,13)(H2,14,15,16)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 304.2143,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 304.084076082,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06931",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGeranylgeranyl pyrophosphate synthase"
+            }
+        ]
+    },
+    {
+        "smiles": "C[C@H](O)CBr",
+        "id": "DB03335",
+        "molecule": "(+)-1-bromo-2-propanol",
+        "cas": "16088-60-1",
+        "iupac_name": "(2S)-1-bromopropan-2-ol",
+        "inchi": {
+            "hash": "WEGOLYBUWCMMMY-VKHMYHEASA-N",
+            "id": "InChI=1S/C3H7BrO/c1-3(5)2-4/h3,5H,2H2,1H3/t3-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 138.991,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 137.968027493,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bromohydrins. These are alcohols substituted by a bromine atom at a saturated carbon atom otherwise bearing only hydrogen or hydrocarbyl groups.",
+        "link": "https://go.drugbank.com/drugs/DB03335",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(S)-(+)-1-Bromo-2-propanol"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Pseudomonas paucimobilis",
+                "target": "UHaloalkane dehalogenase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(N(CCC2=CC(O)=C(OC)C=C12)S(=O)(=O)C1=CC=C(OC)C=C1)C(=O)NO",
+        "id": "DB08170",
+        "molecule": "(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE",
+        "iupac_name": "(1R)-N,6-dihydroxy-7-methoxy-2-(4-methoxybenzenesulfonyl)-1,2,3,4-tetrahydroisoquinoline-1-carboxamide",
+        "inchi": {
+            "hash": "AYFCYVLVRYQGME-QGZVFWFLSA-N",
+            "id": "InChI=1S/C18H20N2O7S/c1-26-12-3-5-13(6-4-12)28(24,25)20-8-7-11-9-15(21)16(27-2)10-14(11)17(20)18(22)19-23/h3-6,9-10,17,21,23H,7-8H2,1-2H3,(H,19,22)/t17-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 408.426,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 408.099121694,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as tetrahydroisoquinolines. These are tetrahydrogenated isoquinoline derivatives.",
+        "link": "https://go.drugbank.com/drugs/DB08170",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UMatrilysin"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]1(C)CNC2=C(SC3=C2C2=C(C=C3)N=C(C=C2)C2=CN=C(C)C=C2)C(=O)N1",
+        "id": "DB07430",
+        "molecule": "(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one",
+        "iupac_name": "(15R)-15-methyl-5-(6-methylpyridin-3-yl)-11-thia-6,14,17-triazatetracyclo[8.8.0.0^{2,7}.0^{12,18}]octadeca-1(10),2(7),3,5,8,12(18)-hexaen-13-one",
+        "inchi": {
+            "hash": "CMWRPDHVGMHLSZ-GFCCVEGCSA-N",
+            "id": "InChI=1S/C21H18N4OS/c1-11-3-4-13(10-22-11)15-6-5-14-16(25-15)7-8-17-18(14)19-20(27-17)21(26)24-12(2)9-23-19/h3-8,10,12,23H,9H2,1-2H3,(H,24,26)/t12-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 374.459,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 374.120131908,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bipyridines and oligopyridines. These are organic compounds containing two pyridine rings linked to each other.",
+        "link": "https://go.drugbank.com/drugs/DB07430",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UMAP kinase-activated protein kinase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "O\\N=C1/CCC2=CC(=CC=C12)C1=CN(N=C1C1=CC=NC=C1)C1CCNCC1",
+        "id": "DB08553",
+        "molecule": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",
+        "iupac_name": "N-[(1E)-5-[1-(piperidin-4-yl)-3-(pyridin-4-yl)-1H-pyrazol-4-yl]-2,3-dihydro-1H-inden-1-ylidene]hydroxylamine",
+        "background": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime is a solid. This compound belongs to the phenylpyrazoles. These are compounds containing a phenylpyrazole skeleton, which consists of a pyrazole bound to a phenyl group. It targets the protein serine/threonine-protein kinase B-raf.\n",
+        "inchi": {
+            "hash": "KWEFZSZCLBHIEQ-YYADALCUSA-N",
+            "id": "InChI=1S/C22H23N5O/c28-26-21-4-2-16-13-17(1-3-19(16)21)20-14-27(18-7-11-24-12-8-18)25-22(20)15-5-9-23-10-6-15/h1,3,5-6,9-10,13-14,18,24,28H,2,4,7-8,11-12H2/b26-21+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 373.4509,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 373.190260383,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indanes. These are compounds containing an indane moiety, which consists of a cyclopentane fused to a benzene ring.",
+        "link": "https://go.drugbank.com/drugs/DB08553",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "USerine/threonine-protein kinase B-raf"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@](NC(=O)CC1=CC=CS1)(B(O)O)C1=CC=CC=C1",
+        "id": "DB08552",
+        "molecule": "(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid",
+        "iupac_name": "[(R)-phenyl[2-(thiophen-2-yl)acetamido]methyl]boronic acid",
+        "background": "(1R)-1-(2-thienylacetylamino)-1-phenylmethylboronic acid is a solid. This compound belongs to the benzenes and substituted derivatives. These are aromatic compounds containing at least one benzene ring. This medication targets the protein beta-lactamase.\n",
+        "inchi": {
+            "hash": "LGJCDEZMANATFA-ZDUSSCGKSA-N",
+            "id": "InChI=1S/C13H14BNO3S/c16-12(9-11-7-4-8-19-11)15-13(14(17)18)10-5-2-1-3-6-10/h1-8,13,17-18H,9H2,(H,15,16)/t13-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 275.131,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 275.078744475,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzene and substituted derivatives. These are aromatic compounds containing one monocyclic ring system consisting of benzene.",
+        "link": "https://go.drugbank.com/drugs/DB08552",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UBeta-lactamase"
+            }
+        ]
+    },
+    {
+        "smiles": "OC(CC1=CC=CC(=C1)C1=CC=C(C=C1)C1=CC=CC=C1)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB07409",
+        "molecule": "(1-HYDROXY-1-PHOSPHONO-2-[1,1';4',1'']TERPHENYL-3-YL-ETHYL)-PHOSPHONIC ACID",
+        "iupac_name": "(1-hydroxy-2-{4'-phenyl-[1,1'-biphenyl]-3-yl}-1-phosphonoethyl)phosphonic acid",
+        "inchi": {
+            "hash": "MPBUFKZCEBTBSK-UHFFFAOYSA-N",
+            "id": "InChI=1S/C20H20O7P2/c21-20(28(22,23)24,29(25,26)27)14-15-5-4-8-19(13-15)18-11-9-17(10-12-18)16-6-2-1-3-7-16/h1-13,21H,14H2,(H2,22,23,24)(H2,25,26,27)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 434.3161,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 434.068426018,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as p-terphenyls. These are terphenyls with a structure containing the 1,4-diphenylbenzene skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07409",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UDitrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)"
+            }
+        ]
+    },
+    {
+        "smiles": "[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C",
+        "id": "DB14136",
+        "molecule": "(-)-menthol 1-propylene glycol carbonate",
+        "cas": "260781-16-6",
+        "iupac_name": "1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol",
+        "inchi": {
+            "hash": "FLYJSXDJKBHQAU-IBSWDFHHSA-N",
+            "id": "InChI=1S/C14H26O4/c1-9(2)12-6-5-10(3)7-13(12)18-14(16)17-8-11(4)15/h9-13,15H,5-8H2,1-4H3/t10-,11?,12+,13-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 258.358,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 258.183109317,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14136",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(-)-menthol (+/-)-1-propylene glycol carbonate",
+            "2-hydroxypropyl ((1R,2S,5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate",
+            "Carbonic acid, 2-hydroxypropyl (1R,2S,5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester",
+            "Fema no. 3806, 1-propylene glycol carbonate"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O",
+        "id": "DB03216",
+        "molecule": "(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine",
+        "iupac_name": "(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol",
+        "inchi": {
+            "hash": "RQPALADHFYHEHK-CHKWXVPMSA-N",
+            "id": "InChI=1S/C10H11N5O2/c11-9-7-10(13-3-12-9)15(4-14-7)5-1-2-6(16)8(5)17/h1-6,8,16-17H,(H2,11,12,13)/t5-,6+,8+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 233.2266,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 233.091274621,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 1,3-substituted cyclopentyl purine nucleosides. These are nucleoside analogues with a structure that consists of a cyclobutane that is substituted a the 1-position with a hydroxyl group and at the 3-position with either a purine base.",
+        "link": "https://go.drugbank.com/drugs/DB03216",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UAdenosylhomocysteinase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@](CC1=CC=CC(=C1)C(O)=O)(NC(=O)CC1=CC=CC=C1)B(O)O",
+        "id": "DB07466",
+        "molecule": "(1R)-2-PHENYLACETAMIDO-2-(3-CARBOXYPHENYL)ETHYL BORONIC ACID",
+        "iupac_name": "3-[(2R)-2-(dihydroxyboranyl)-2-(2-phenylacetamido)ethyl]benzoic acid",
+        "inchi": {
+            "hash": "ZAHVYMBTUDWUAX-HNNXBMFYSA-N",
+            "id": "InChI=1S/C17H18BNO5/c20-16(11-12-5-2-1-3-6-12)19-15(18(23)24)10-13-7-4-8-14(9-13)17(21)22/h1-9,15,23-24H,10-11H2,(H,19,20)(H,21,22)/t15-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 327.14,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 327.127803157,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as phenylacetamides. These are amide derivatives of phenylacetic acids.",
+        "link": "https://go.drugbank.com/drugs/DB07466",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli",
+                "target": "UBeta-lactamase TEM"
+            }
+        ]
+    },
+    {
+        "smiles": "OC(=O)CO\\N=C1/C2=CC=CCC2=N/C/1=C1\\C(=O)N=C2CC=CC=C12",
+        "id": "DB07949",
+        "molecule": "({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",
+        "iupac_name": "2-({[(Z,3E)-2'-oxo-3,7-dihydro-2'H,7'H-[2,3'-biindolyliden]-3-ylidene]amino}oxy)acetic acid",
+        "inchi": {
+            "hash": "BFQRPTKOSYMPOL-LALPNIDTSA-N",
+            "id": "InChI=1S/C18H13N3O4/c22-14(23)9-25-21-16-11-6-2-4-8-13(11)19-17(16)15-10-5-1-3-7-12(10)20-18(15)24/h1-6H,7-9H2,(H,22,23)/b17-15-,21-16+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 335.3135,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 335.090605919,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indoles and derivatives. These are organic compounds containing an indole, which is a bicyclic ring system made up of a six-membered benzene ring fused to a five-membered nitrogen-containing pyrrole ring.",
+        "link": "https://go.drugbank.com/drugs/DB07949",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlycogen phosphorylase, muscle form"
+            }
+        ]
+    },
+    {
+        "smiles": "[NH3+][C@@H]1C[C@H]1C1=CC=CC=C1",
+        "id": "DB02665",
+        "molecule": "(1R,2S)-2-Phenylcyclopropanaminium",
+        "cas": "1986-47-6",
+        "iupac_name": "(1R,2S)-2-phenylcyclopropan-1-aminium",
+        "background": "A propylamine formed from the cyclization of the side chain of amphetamine. This monoamine oxidase inhibitor is effective in the treatment of major depression, dysthymic disorder, and atypical depression. It also is useful in panic and phobic disorders. (From AMA Drug Evaluations Annual, 1994, p311)\n",
+        "inchi": {
+            "hash": "AELCINSCMGFISI-DTWKUNHWSA-O",
+            "id": "InChI=1S/C9H11N/c10-9-6-8(9)7-4-2-1-3-5-7/h1-5,8-9H,6,10H2/p+1/t8-,9+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 134.1983,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 134.096974389,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as aralkylamines. These are alkylamines in which the alkyl group is substituted at one carbon atom by an aromatic hydrocarbyl group.",
+        "link": "https://go.drugbank.com/drugs/DB02665",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(1R,2S)-tranylcypromine(1+)"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UTrypsin-1"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@](C)(O[P@]([H])(C)=O)C(C)(C)C",
+        "id": "DB07821",
+        "molecule": "(1R)-1,2,2-trimethylpropyl (R)-methylphosphinate",
+        "iupac_name": "(2R)-3,3-dimethylbutan-2-yl methylphosphinate",
+        "inchi": {
+            "hash": "QZUGWOMGKDLYKO-ZCFIWIBFSA-N",
+            "id": "InChI=1S/C7H17O2P/c1-6(7(2,3)4)9-10(5)8/h6,10H,1-5H3/t6-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 164.1824,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 164.0966163,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as phosphinic acid esters. These are compounds containing a phosphinic acid ester group.",
+        "link": "https://go.drugbank.com/drugs/DB07821",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "ULiver carboxylesterase 1"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UPlatelet-activating factor acetylhydrolase IB subunit gamma"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UPlatelet-activating factor acetylhydrolase"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCC\\C=C/C=C/CCCCCCCCC(O)=O",
+        "id": "DB04746",
+        "molecule": "(10E,12Z)-octadecadienoic acid",
+        "cas": "2420-56-6",
+        "iupac_name": "(10E,12Z)-octadeca-10,12-dienoic acid",
+        "inchi": {
+            "hash": "GKJZMAHZJGSBKD-NMMTYZSQSA-N",
+            "id": "InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-9H,2-5,10-17H2,1H3,(H,19,20)/b7-6-,9-8+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 280.4455,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 280.240230268,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as lineolic acids and derivatives. These are derivatives of lineolic acid. Lineolic acid is a polyunsaturated omega-6 18 carbon long fatty acid, with two CC double bonds at the 9- and 12-positions.",
+        "link": "https://go.drugbank.com/drugs/DB04746",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(10E,12Z)-octadeca-10,12-dienoic acid",
+            "(E,Z)-octadeca-10,12-dienoic acid",
+            "10-trans-12-cis-CLA",
+            "10-trans-12-cis-conjugated linoleic acid",
+            "10-trans-12-cis-linoleic acid",
+            "10-trans-12-cis-octadecadienoic acid",
+            "10,12-trans,cis-octadecanoic acid",
+            "C18:2, n-6,8 cis,trans"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Propionibacterium acnes",
+                "target": "UPutative aminooxidase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H]N([H])C1=NC(=O)C2=C(C=CC(C[C@@H](C(O)=O)C3=CC=C(C=C3)C(=O)N([H])[C@@H](CCC(O)=O)C(O)=O)=C2)N1[H]",
+        "id": "DB04264",
+        "molecule": "(10R)-10-formyl-5,8,10-trideazafolic acid",
+        "iupac_name": "(2S)-2-({4-[(1R)-2-(2-amino-4-oxo-1,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}formamido)pentanedioic acid",
+        "inchi": {
+            "hash": "DAOQLLQRJAXMGY-PBHICJAKSA-N",
+            "id": "InChI=1S/C23H22N4O8/c24-23-26-16-6-1-11(10-15(16)20(31)27-23)9-14(21(32)33)12-2-4-13(5-3-12)19(30)25-17(22(34)35)7-8-18(28)29/h1-6,10,14,17H,7-9H2,(H,25,30)(H,28,29)(H,32,33)(H,34,35)(H3,24,26,27,31)/t14-,17+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 482.4428,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 482.1437637,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as glutamic acid and derivatives. These are compounds containing glutamic acid or a derivative thereof resulting from reaction of glutamic acid at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.",
+        "link": "https://go.drugbank.com/drugs/DB04264",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UPhosphoribosylglycinamide formyltransferase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]1(C)CNC2=C(SC3=C2C2=C(C=C3)N=C(C=C2)C2=CN=C(C)C=C2)C(=O)N1",
+        "id": "DB07430",
+        "molecule": "(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one",
+        "iupac_name": "(15R)-15-methyl-5-(6-methylpyridin-3-yl)-11-thia-6,14,17-triazatetracyclo[8.8.0.0^{2,7}.0^{12,18}]octadeca-1(10),2(7),3,5,8,12(18)-hexaen-13-one",
+        "inchi": {
+            "hash": "CMWRPDHVGMHLSZ-GFCCVEGCSA-N",
+            "id": "InChI=1S/C21H18N4OS/c1-11-3-4-13(10-22-11)15-6-5-14-16(25-15)7-8-17-18(14)19-20(27-17)21(26)24-12(2)9-23-19/h3-8,10,12,23H,9H2,1-2H3,(H,24,26)/t12-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 374.459,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 374.120131908,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bipyridines and oligopyridines. These are organic compounds containing two pyridine rings linked to each other.",
+        "link": "https://go.drugbank.com/drugs/DB07430",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UMAP kinase-activated protein kinase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB06931",
+        "molecule": "(1-HYDROXYNONANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+        "iupac_name": "(1-hydroxy-1-phosphonononyl)phosphonic acid",
+        "inchi": {
+            "hash": "COHUUYPEYRMWTH-UHFFFAOYSA-N",
+            "id": "InChI=1S/C9H22O7P2/c1-2-3-4-5-6-7-8-9(10,17(11,12)13)18(14,15)16/h10H,2-8H2,1H3,(H2,11,12,13)(H2,14,15,16)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 304.2143,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 304.084076082,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06931",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGeranylgeranyl pyrophosphate synthase"
+            }
+        ]
+    },
+    {
+        "smiles": "COC1=CC2=C(C=C1)N(CC1=CC=CC=C1)C(C)=C2CC(O)=O",
+        "id": "DB03121",
+        "molecule": "(1-Benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+        "cas": "59283-35-1",
+        "iupac_name": "2-(1-benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+        "inchi": {
+            "hash": "ZEKCBTQHDTUHRJ-UHFFFAOYSA-N",
+            "id": "InChI=1S/C19H19NO3/c1-13-16(11-19(21)22)17-10-15(23-2)8-9-18(17)20(13)12-14-6-4-3-5-7-14/h3-10H,11-12H2,1-2H3,(H,21,22)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 309.3591,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 309.136493479,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole.",
+        "link": "https://go.drugbank.com/drugs/DB03121",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UPhospholipase A2, membrane associated"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@](NOCCS)(C(O)=O)C1=CNC2=C1C=CC=C2",
+        "id": "DB03455",
+        "molecule": "(1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid",
+        "iupac_name": "(2R)-2-(1H-indol-3-yl)-2-[(2-sulfanylethoxy)amino]acetic acid",
+        "background": "(1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid is a solid. This compound belongs to the indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole. (1H-indol-3-yl)-(2-mercapto-ethoxyimino)-acetic acid is known to target interleukin-2.\n",
+        "inchi": {
+            "hash": "FJAWIBGKKKXXAL-LLVKDONJSA-N",
+            "id": "InChI=1S/C12H14N2O3S/c15-12(16)11(14-17-5-6-18)9-7-13-10-4-2-1-3-8(9)10/h1-4,7,11,13-14,18H,5-6H2,(H,15,16)/t11-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 266.316,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 266.072513014,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole.",
+        "link": "https://go.drugbank.com/drugs/DB03455",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UInterleukin-2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(O)C=CC2=C(C=CC=C2)[C@@]1([H])O",
+        "id": "DB08264",
+        "molecule": "(1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene",
+        "iupac_name": "(1R,2S)-1,2-dihydronaphthalene-1,2-diol",
+        "background": "(1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene is a solid. This compound belongs to the naphthalenes. These are compounds containing a naphthalene moiety, which consists of two fused benzene rings. Known drug targets of (1R, 2S)-cis 1,2 dihydroxy-1,2-dihydronaphthalene include naphthalene 1,2-dioxygenase subunit beta and naphthalene 1,2-dioxygenase subunit alpha.\n",
+        "inchi": {
+            "hash": "QPUHWUSUBHNZCG-VHSXEESVSA-N",
+            "id": "InChI=1S/C10H10O2/c11-9-6-5-7-3-1-2-4-8(7)10(9)12/h1-6,9-12H/t9-,10+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 162.1852,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 162.068079564,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as naphthalenes. These are compounds containing a naphthalene moiety, which consists of two fused benzene rings.",
+        "link": "https://go.drugbank.com/drugs/DB08264",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Pseudomonas putida",
+                "target": "UNaphthalene 1,2-dioxygenase subunit alpha"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Pseudomonas putida",
+                "target": "UNaphthalene 1,2-dioxygenase subunit beta"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@](O)(CN)C1=CC=CC(=C1)C(F)(F)F",
+        "id": "DB08129",
+        "molecule": "(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethanol",
+        "iupac_name": "(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethan-1-ol",
+        "inchi": {
+            "hash": "RRBRWAPWPGAJMA-QMMMGPOBSA-N",
+            "id": "InChI=1S/C9H10F3NO/c10-9(11,12)7-3-1-2-6(4-7)8(14)5-13/h1-4,8,14H,5,13H2/t8-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 205.177,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 205.071448562,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as trifluoromethylbenzenes. These are organofluorine compounds that contain a benzene ring substituted with one or more trifluoromethyl groups.",
+        "link": "https://go.drugbank.com/drugs/DB08129",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UPhenylethanolamine N-methyltransferase"
+            }
+        ]
+    },
+    {
+        "smiles": "CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C",
+        "id": "DB18097",
+        "molecule": "(-)-beta-Elemene",
+        "cas": "515-13-9",
+        "inchi": {
+            "hash": "OPFTUNCRGUEPRZ-QLFBSQMISA-N",
+            "id": "InChI=1S/C15H24/c1-7-15(6)9-8-13(11(2)3)10-14(15)12(4)5/h7,13-14H,1-2,4,8-10H2,3,5-6H3/t13-,14+,15+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 204.357,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 204.187800773,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB18097",
+        "type": "Small Molecule",
+        "synonyms": [
+            ".beta.-elemene",
+            "(-)-.beta.-elemene",
+            "(-)-B-elemene",
+            "(-)-beta-Elemene",
+            "Cyclohexane, 1-ethenyl-1-methyl-2,4-bis(1-methylethenyl)-, (1s,2s,4r)-",
+            "Elemene, (-)-.beta.-"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@@]1(CS(=O)(=O)C2=CC=C(OC)C=C2)CCCC[C@@]1([H])C(=O)NCCN",
+        "id": "DB08287",
+        "molecule": "(1R,2R)-N-(2-Aminoethyl)-2-{[(4-methoxyphenyl)sulfonyl]methyl}cyclohexanecarboxamide",
+        "iupac_name": "(1R,2R)-N-(2-aminoethyl)-2-[(4-methoxybenzenesulfonyl)methyl]cyclohexane-1-carboxamide",
+        "inchi": {
+            "hash": "QTGNVZPFJQOWFL-XJKSGUPXSA-N",
+            "id": "InChI=1S/C17H26N2O4S/c1-23-14-6-8-15(9-7-14)24(21,22)12-13-4-2-3-5-16(13)17(20)19-11-10-18/h6-9,13,16H,2-5,10-12,18H2,1H3,(H,19,20)/t13-,16+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 354.464,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 354.16132802,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzenesulfonyl compounds. These are aromatic compounds containing a benzenesulfonyl group, which consists of a monocyclic benzene moiety that carries a sulfonyl group.",
+        "link": "https://go.drugbank.com/drugs/DB08287",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCathepsin K"
+            }
+        ]
+    },
+    {
+        "smiles": "CC[C@@H](C1=CC(NC(=O)CNC(=O)OC(C)(C)C)=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O",
+        "id": "DB08664",
+        "molecule": "({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester",
+        "iupac_name": "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate",
+        "inchi": {
+            "hash": "QUQQVMVIWCUYFV-KRWDZBQOSA-N",
+            "id": "InChI=1S/C25H28N2O6/c1-5-17(21-22(29)18-11-6-7-12-19(18)32-23(21)30)15-9-8-10-16(13-15)27-20(28)14-26-24(31)33-25(2,3)4/h6-13,17,29H,5,14H2,1-4H3,(H,26,31)(H,27,28)/t17-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 452.4996,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 452.194736638,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 4-hydroxycoumarins. These are coumarins that contain one or more hydroxyl groups attached to C4-position the coumarin skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB08664",
+        "type": "Small Molecule",
+        "synonyms": [
+            "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "HIV-2",
+                "target": "UGag-Pol polyprotein"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(CC[C@](C)(CCC#CC(O)(C(F)(F)F)C(F)(F)F)C1(C)C)\\C=C\\C=C1C[C@](O)([H])C[C@@](O)([H])C1",
+        "id": "DB07530",
+        "molecule": "(1R,3R)-5-[(2E)-3-{(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl}prop-2-en-1-ylidene]cyclohexane-1,3-diol",
+        "iupac_name": "(1R,3R)-5-[(2E)-3-[(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl]prop-2-en-1-ylidene]cyclohexane-1,3-diol",
+        "inchi": {
+            "hash": "PCHUQQNKOFNVDU-OSXMSNBXSA-N",
+            "id": "InChI=1S/C24H32F6O3/c1-20(2)17(8-6-7-16-13-18(31)15-19(32)14-16)9-12-21(20,3)10-4-5-11-22(33,23(25,26)27)24(28,29)30/h6-8,17-19,31-33H,4,9-10,12-15H2,1-3H3/b8-6+/t17-,18-,19-,21+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 482.4995,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 482.22556412,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as iridoids and derivatives. These are monoterpenes containing a skeleton structurally characterized by the presence of a cylopentane fused to a pyran ( forming a 4,7-dimethylcyclopenta[c]pyran), or a derivative where the pentane moiety is open.",
+        "link": "https://go.drugbank.com/drugs/DB07530",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UNuclear receptor coactivator 1"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UVitamin D3 receptor"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(C2CCN(CC2)S(C)(=O)=O)C2=C(C=C(Cl)C=C2)C(=CC2=C1N=CC=C2)N1CCNCC1",
+        "id": "DB07216",
+        "molecule": "(11S)-8-CHLORO-11-[1-(METHYLSULFONYL)PIPERIDIN-4-YL]-6-PIPERAZIN-1-YL-11H-BENZO[5,6]CYCLOHEPTA[1,2-B]PYRIDINE",
+        "iupac_name": "(2S)-13-chloro-2-(1-methanesulfonylpiperidin-4-yl)-10-(piperazin-1-yl)-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene",
+        "inchi": {
+            "hash": "ZMGCFGGMTCMSDP-QHCPKHFHSA-N",
+            "id": "InChI=1S/C24H29ClN4O2S/c1-32(30,31)29-11-6-17(7-12-29)23-20-5-4-19(25)16-21(20)22(28-13-9-26-10-14-28)15-18-3-2-8-27-24(18)23/h2-5,8,15-17,23,26H,6-7,9-14H2,1H3/t23-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 473.031,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 472.169974589,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzocycloheptapyridines. These are aromatic compounds containing a benzene ring and a pyridine ring fused to a seven membered carbocycle.",
+        "link": "https://go.drugbank.com/drugs/DB07216",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProtein farnesyltransferase subunit beta"
+            }
+        ]
+    },
+    {
+        "smiles": "NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2OCCNCC2CCCNC2)[C@H](N)[C@@H](O)[C@@H]1O",
+        "id": "DB04718",
+        "molecule": "(1R,2R,3S,4R,6S)-4,6-diamino-2-{[3-O-(2,6-diamino-2,6-dideoxy-beta-L-idopyranosyl)-2-O-{2-[(piperidin-3-ylmethyl)amino]ethyl}-beta-D-ribofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2-deoxy-alpha-D-glucopyranoside",
+        "iupac_name": "(2R,3S,4R,5R,6S)-5-amino-6-{[(1R,2R,3S,4R,6S)-4,6-diamino-2-{[(2S,3R,4R,5R)-4-{[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy}-5-(hydroxymethyl)-3-(2-{[(piperidin-3-yl)methyl]amino}ethoxy)oxolan-2-yl]oxy}-3-hydroxycyclohexyl]oxy}-2-(hydroxymethyl)oxane-3,4-diol",
+        "inchi": {
+            "hash": "AHJDGUQMOYBKDU-NSCPTEJBSA-N",
+            "id": "InChI=1S/C31H61N7O14/c32-7-15-21(42)23(44)18(35)29(47-15)51-26-17(11-40)49-31(28(26)46-5-4-38-9-12-2-1-3-37-8-12)52-27-20(41)13(33)6-14(34)25(27)50-30-19(36)24(45)22(43)16(10-39)48-30/h12-31,37-45H,1-11,32-36H2/t12?,13-,14+,15+,16-,17-,18-,19-,20+,21-,22-,23-,24-,25-,26-,27-,28-,29-,30-,31+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 755.8545,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 755.427649695,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 4,5-disubstituted 2-deoxystreptamines. These are 2-deoxystreptamine aminoglycosides that a glycosidically linked to a pyranose of furanose unit at the C4- and C5-positions.",
+        "link": "https://go.drugbank.com/drugs/DB04718",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(1R,2R,3S,4R,6S)-4,6-diamino-2-{[3-O-(2,6-diamino-2,6-dideoxy-β-L-idopyranosyl)-2-O-{2-[(piperidin-3-ylmethyl)amino]ethyl}-β-D-ribofuranosyl]oxy}-3-hydroxycyclohexyl 2-amino-2-deoxy-α-D-glucopyranoside"
+        ]
+    },
+    {
+        "smiles": "OC(CC1=CC=CC(=C1)C1=CC=C(C=C1)C1=CC=CC=C1)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB07409",
+        "molecule": "(1-HYDROXY-1-PHOSPHONO-2-[1,1';4',1'']TERPHENYL-3-YL-ETHYL)-PHOSPHONIC ACID",
+        "iupac_name": "(1-hydroxy-2-{4'-phenyl-[1,1'-biphenyl]-3-yl}-1-phosphonoethyl)phosphonic acid",
+        "inchi": {
+            "hash": "MPBUFKZCEBTBSK-UHFFFAOYSA-N",
+            "id": "InChI=1S/C20H20O7P2/c21-20(28(22,23)24,29(25,26)27)14-15-5-4-8-19(13-15)18-11-9-17(10-12-18)16-6-2-1-3-7-16/h1-13,21H,14H2,(H2,22,23,24)(H2,25,26,27)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 434.3161,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 434.068426018,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as p-terphenyls. These are terphenyls with a structure containing the 1,4-diphenylbenzene skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07409",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UDitrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(N(C(C)=O)C2=CC=CC(O)=C2NC2=C1C(=O)CC(C)(C)C2)C1=C(Cl)C=C(Cl)C=C1",
+        "id": "DB08747",
+        "molecule": "(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",
+        "iupac_name": "(10R)-9-acetyl-10-(2,4-dichlorophenyl)-4-hydroxy-14,14-dimethyl-2,9-diazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7-tetraen-12-one",
+        "inchi": {
+            "hash": "JJTPPGUNMJMPLY-QFIPXVFZSA-N",
+            "id": "InChI=1S/C23H22Cl2N2O3/c1-12(28)27-17-5-4-6-18(29)21(17)26-16-10-23(2,3)11-19(30)20(16)22(27)14-8-7-13(24)9-15(14)25/h4-9,22,26,29H,10-11H2,1-3H3/t22-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 445.338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 444.100747994,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzodiazepines. These are organic compounds containing a benzene ring fused to either isomers of diazepine(unsaturated seven-member heterocycle with two nitrogen atoms replacing two carbon atoms).",
+        "link": "https://go.drugbank.com/drugs/DB08747",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "",
+                "target": "UGenome polyprotein"
+            }
+        ]
+    },
+    {
+        "smiles": "CC(C)(O)[C@@H]1CC2=C(O1)C=C1OC(=O)C(=CC1=C2)C(C)(C)C=C",
+        "id": "DB02205",
+        "molecule": "(+)-Rutamarin alcohol",
+        "cas": "14755-47-6",
+        "iupac_name": "(2S)-2-(2-hydroxypropan-2-yl)-6-(2-methylbut-3-en-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one",
+        "inchi": {
+            "hash": "JCDLLLXYAICSQV-INIZCTEOSA-N",
+            "id": "InChI=1S/C19H22O4/c1-6-18(2,3)13-8-11-7-12-9-16(19(4,5)21)22-14(12)10-15(11)23-17(13)20/h6-8,10,16,21H,1,9H2,2-5H3/t16-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 314.3756,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 314.151809192,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as psoralens. These are organic compounds containing a psoralen moiety, which consists of a furan fused to a chromenone to for 7H-furo[3,2-g]chromen-7-one.",
+        "link": "https://go.drugbank.com/drugs/DB02205",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-Chalepin"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlyceraldehyde-3-phosphate dehydrogenase, testis-specific"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Trypanosoma cruzi",
+                "target": "UGlyceraldehyde-3-phosphate dehydrogenase, glycosomal"
+            }
+        ]
+    },
+    {
+        "smiles": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1O",
+        "id": "DB11344",
+        "molecule": "(+)-menthol",
+        "cas": "15356-60-2",
+        "iupac_name": "(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol",
+        "inchi": {
+            "hash": "NOOLISFMXDJSKH-AEJSXWLSSA-N",
+            "id": "InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 156.269,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 156.151415264,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as menthane monoterpenoids. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone. P-menthane consists of the cyclohexane ring with a methyl group and a (2-methyl)-propyl group at the 1 and 4 ring position, respectively. The o- and m- menthanes are much rarer, and presumably arise by alkyl migration of p-menthanes.",
+        "link": "https://go.drugbank.com/drugs/DB11344",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-(1S,2R,5S)-menthol",
+            "(+)-(1S,3S,4R)-menthol",
+            "(1S,2R,5S)-(+)-menthol",
+            "(1S,2R,5S)-menthol",
+            "D-menthol"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "[H]N(CC1=CC=CC=C1)[C@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@]1([H])SC",
+        "id": "DB06984",
+        "molecule": "(1R,2R,3R,4S,5R)-4-(Benzylamino)-5-(methylthio)cyclopentane-1,2,3-triol",
+        "iupac_name": "(1R,2R,3R,4S,5R)-4-(benzylamino)-5-(methylsulfanyl)cyclopentane-1,2,3-triol",
+        "inchi": {
+            "hash": "CHTYSDQNKZIWBZ-ZOLYEBIHSA-N",
+            "id": "InChI=1S/C13H19NO3S/c1-18-13-9(10(15)11(16)12(13)17)14-7-8-5-3-2-4-6-8/h2-6,9-17H,7H2,1H3/t9-,10+,11+,12+,13+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 269.36,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 269.108564169,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as phenylmethylamines. These are compounds containing a phenylmethtylamine moiety, which consists of a phenyl group substituted by an methanamine.",
+        "link": "https://go.drugbank.com/drugs/DB06984",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Benzylation of mannostatin A, 1b"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UAlpha-mannosidase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]12CC[C@@](C)(NC1)C2(C)C",
+        "id": "DB02409",
+        "molecule": "(1r,4s)-2-Azabornane",
+        "iupac_name": "(1R,4S)-1,7,7-trimethyl-2-azabicyclo[2.2.1]heptane",
+        "inchi": {
+            "hash": "OLTRGBMOWPXXIG-VXNVDRBHSA-N",
+            "id": "InChI=1S/C9H17N/c1-8(2)7-4-5-9(8,3)10-6-7/h7,10H,4-6H2,1-3H3/t7-,9-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 139.238,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 139.136099549,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as piperidines. These are compounds containing a piperidine ring, which is a saturated aliphatic six-member ring with one nitrogen atom and five carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB02409",
+        "type": "Small Molecule"
+    },
+    {
+        "smiles": "[H][C@]1(NC(C(O)=O)=C2[C@]1([H])CCC[C@]2([H])OC)C(=C/C)\\C=O",
+        "id": "DB08110",
+        "molecule": "(1R,4S,7AS)-1-(1-FORMYLPROP-1-EN-1-YL)-4-METHOXY-2,4,5,6,7,7A-HEXAHYDRO-1H-ISOINDOLE-3-CARBOXYLIC ACID",
+        "iupac_name": "(1R,4S,7aS)-4-methoxy-1-[(2E)-1-oxobut-2-en-2-yl]-2,4,5,6,7,7a-hexahydro-1H-isoindole-3-carboxylic acid",
+        "inchi": {
+            "hash": "ZYKSDPVHVMSKIL-IIHMJNQGSA-N",
+            "id": "InChI=1S/C14H19NO4/c1-3-8(7-16)12-9-5-4-6-10(19-2)11(9)13(15-12)14(17)18/h3,7,9-10,12,15H,4-6H2,1-2H3,(H,17,18)/b8-3-/t9-,10-,12-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 265.305,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 265.131408101,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as alpha amino acids. These are amino acids in which the amino group is attached to the carbon atom immediately adjacent to the carboxylate group (alpha carbon).",
+        "link": "https://go.drugbank.com/drugs/DB08110",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Enterobacter cloacae",
+                "target": "UBeta-lactamase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@](CCCC1=CC=CC(OC2=CC=CC=C2)=C1)(P(O)(O)=O)S(O)(=O)=O",
+        "id": "DB07420",
+        "molecule": "(1R)-4-(3-phenoxyphenyl)-1-phosphonobutane-1-sulfonic acid",
+        "iupac_name": "(1R)-4-(3-phenoxyphenyl)-1-phosphonobutane-1-sulfonic acid",
+        "inchi": {
+            "hash": "RCGCZPXSRLLKCK-MRXNPFEDSA-N",
+            "id": "InChI=1S/C16H19O7PS/c17-24(18,19)16(25(20,21)22)11-5-7-13-6-4-10-15(12-13)23-14-8-2-1-3-9-14/h1-4,6,8-10,12,16H,5,7,11H2,(H2,17,18,19)(H,20,21,22)/t16-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 386.357,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 386.058910164,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as diphenylethers. These are aromatic compounds containing two benzene rings linked to each other through an ether group.",
+        "link": "https://go.drugbank.com/drugs/DB07420",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Staphylococcus aureus",
+                "target": "UDehydrosqualene synthase"
+            }
+        ]
+    },
+    {
+        "smiles": "COC1=CC2=C(C=C1)N(CC1=CC=CC=C1)C(C)=C2CC(O)=O",
+        "id": "DB03121",
+        "molecule": "(1-Benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+        "cas": "59283-35-1",
+        "iupac_name": "2-(1-benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+        "inchi": {
+            "hash": "ZEKCBTQHDTUHRJ-UHFFFAOYSA-N",
+            "id": "InChI=1S/C19H19NO3/c1-13-16(11-19(21)22)17-10-15(23-2)8-9-18(17)20(13)12-14-6-4-3-5-7-14/h3-10H,11-12H2,1-2H3,(H,21,22)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 309.3591,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 309.136493479,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole.",
+        "link": "https://go.drugbank.com/drugs/DB03121",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UPhospholipase A2, membrane associated"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C",
+        "id": "DB14093",
+        "molecule": "(1,2,6,7-3H)Testosterone",
+        "cas": "67308-98-9",
+        "iupac_name": "(1S,3aS,3bR,9aR,9bS,11aS)-1-hydroxy-9a,11a-dimethyl(4,5,8,9-3H4)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",
+        "inchi": {
+            "hash": "MUMGGOZAMZWBJJ-JQSYSRDDSA-N",
+            "id": "InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h11,14-17,21H,3-10H2,1-2H3/t14-,15-,16-,17-,18-,19-/m0/s1/i3T,4T,7T,9T/t3?,4?,7?,9?,14-,15-,16-,17-,18-,19-"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 296.463,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 296.241827085,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14093",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Testosterone, 1,2,6,7-H-3"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "CC\\C=C/C\\C=C/C[C@@H](O)\\C=C\\C=C/C\\C=C/CCCC(O)=O",
+        "id": "DB15571",
+        "molecule": "(12R)-12-hydroxyeicosapentaenoic acid",
+        "cas": "109430-12-8",
+        "iupac_name": "(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid",
+        "inchi": {
+            "hash": "MCRJLMXYVFDXLS-IHWYZUJNSA-N",
+            "id": "InChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h3-4,7-11,13-14,17,19,21H,2,5-6,12,15-16,18H2,1H3,(H,22,23)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 318.457,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 318.219494826,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB15571",
+        "type": "Small Molecule",
+        "is_stub": true
+    },
+    {
+        "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O",
+        "id": "DB03216",
+        "molecule": "(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine",
+        "iupac_name": "(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol",
+        "inchi": {
+            "hash": "RQPALADHFYHEHK-CHKWXVPMSA-N",
+            "id": "InChI=1S/C10H11N5O2/c11-9-7-10(13-3-12-9)15(4-14-7)5-1-2-6(16)8(5)17/h1-6,8,16-17H,(H2,11,12,13)/t5-,6+,8+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 233.2266,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 233.091274621,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 1,3-substituted cyclopentyl purine nucleosides. These are nucleoside analogues with a structure that consists of a cyclobutane that is substituted a the 1-position with a hydroxyl group and at the 3-position with either a purine base.",
+        "link": "https://go.drugbank.com/drugs/DB03216",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UAdenosylhomocysteinase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]12CN(CCN3NC4=C(C=CC=C4C3=O)C3=NC4=C(NC3=O)C=CC=C4O1)[C@]([H])(C)C2",
+        "id": "DB06888",
+        "molecule": "(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE",
+        "iupac_name": "(13R,15S)-13-methyl-16-oxa-8,9,12,22,24-pentaazahexacyclo[15.6.2.1^{6,9}.1^{12,15}.0^{2,7}.0^{21,25}]heptacosa-1(24),2(7),3,5,17,19,21(25)-heptaene-23,27-dione",
+        "inchi": {
+            "hash": "KBLPHMRCKHFBJB-OLZOCXBDSA-N",
+            "id": "InChI=1S/C22H21N5O3/c1-12-10-13-11-26(12)8-9-27-22(29)15-5-2-4-14(18(15)25-27)19-21(28)23-16-6-3-7-17(30-13)20(16)24-19/h2-7,12-13,25H,8-11H2,1H3,(H,23,28)/t12-,13+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 403.4338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 403.164439563,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as quinoxalines. These are compounds containing a quinoxaline moiety, a bicyclic heterocycle made up of a benzene ring fused to a pyrazine ring.",
+        "link": "https://go.drugbank.com/drugs/DB06888",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCyclin-dependent kinase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@](O)(CCCl)C1=CC=CC=C1",
+        "id": "DB06934",
+        "molecule": "(1R)-3-chloro-1-phenylpropan-1-ol",
+        "iupac_name": "(1R)-3-chloro-1-phenylpropan-1-ol",
+        "inchi": {
+            "hash": "JZFUHAGLMZWKTF-SECBINFHSA-N",
+            "id": "InChI=1S/C9H11ClO/c10-7-6-9(11)8-4-2-1-3-5-8/h1-5,9,11H,6-7H2/t9-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 170.636,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 170.049842681,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzene and substituted derivatives. These are aromatic compounds containing one monocyclic ring system consisting of benzene.",
+        "link": "https://go.drugbank.com/drugs/DB06934",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Enterobacteria phage T4",
+                "target": "ULysozyme"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C",
+        "id": "DB14093",
+        "molecule": "(1,2,6,7-3H)Testosterone",
+        "cas": "67308-98-9",
+        "iupac_name": "(1S,3aS,3bR,9aR,9bS,11aS)-1-hydroxy-9a,11a-dimethyl(4,5,8,9-3H4)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",
+        "inchi": {
+            "hash": "MUMGGOZAMZWBJJ-JQSYSRDDSA-N",
+            "id": "InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h11,14-17,21H,3-10H2,1-2H3/t14-,15-,16-,17-,18-,19-/m0/s1/i3T,4T,7T,9T/t3?,4?,7?,9?,14-,15-,16-,17-,18-,19-"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 296.463,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 296.241827085,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14093",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Testosterone, 1,2,6,7-H-3"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@]1(C2CCN(CC2)S(C)(=O)=O)C2=C(C=C(Cl)C=C2)C(=CC2=C1N=CC=C2)N1CCNCC1",
+        "id": "DB07216",
+        "molecule": "(11S)-8-CHLORO-11-[1-(METHYLSULFONYL)PIPERIDIN-4-YL]-6-PIPERAZIN-1-YL-11H-BENZO[5,6]CYCLOHEPTA[1,2-B]PYRIDINE",
+        "iupac_name": "(2S)-13-chloro-2-(1-methanesulfonylpiperidin-4-yl)-10-(piperazin-1-yl)-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene",
+        "inchi": {
+            "hash": "ZMGCFGGMTCMSDP-QHCPKHFHSA-N",
+            "id": "InChI=1S/C24H29ClN4O2S/c1-32(30,31)29-11-6-17(7-12-29)23-20-5-4-19(25)16-21(20)22(28-13-9-26-10-14-28)15-18-3-2-8-27-24(18)23/h2-5,8,15-17,23,26H,6-7,9-14H2,1H3/t23-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 473.031,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 472.169974589,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzocycloheptapyridines. These are aromatic compounds containing a benzene ring and a pyridine ring fused to a seven membered carbocycle.",
+        "link": "https://go.drugbank.com/drugs/DB07216",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProtein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProtein farnesyltransferase subunit beta"
+            }
+        ]
+    },
+    {
+        "smiles": "OC(=O)CO\\N=C1/C2=CC=CCC2=N/C/1=C1\\C(=O)N=C2CC=CC=C12",
+        "id": "DB07949",
+        "molecule": "({[(3E)-2'-Oxo-2',7'-dihydro-2,3'-biindol-3(7H)-ylidene]amino}oxy)acetic acid",
+        "iupac_name": "2-({[(Z,3E)-2'-oxo-3,7-dihydro-2'H,7'H-[2,3'-biindolyliden]-3-ylidene]amino}oxy)acetic acid",
+        "inchi": {
+            "hash": "BFQRPTKOSYMPOL-LALPNIDTSA-N",
+            "id": "InChI=1S/C18H13N3O4/c22-14(23)9-25-21-16-11-6-2-4-8-13(11)19-17(16)15-10-5-1-3-7-12(10)20-18(15)24/h1-6H,7-9H2,(H,22,23)/b17-15-,21-16+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 335.3135,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 335.090605919,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indoles and derivatives. These are organic compounds containing an indole, which is a bicyclic ring system made up of a six-membered benzene ring fused to a five-membered nitrogen-containing pyrrole ring.",
+        "link": "https://go.drugbank.com/drugs/DB07949",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlycogen phosphorylase, muscle form"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]1(CCCC[C@]1([H])C1=NNC(=S)N1)C(O)=O",
+        "id": "DB07850",
+        "molecule": "(1R,2S)-2-(5-thioxo-4,5-dihydro-1H-1,2,4-triazol-3-yl)cyclohexanecarboxylic acid",
+        "iupac_name": "(1R,2S)-2-(5-sulfanylidene-4,5-dihydro-1H-1,2,4-triazol-3-yl)cyclohexane-1-carboxylic acid",
+        "inchi": {
+            "hash": "DYLXWYPNDHPRPQ-NTSWFWBYSA-N",
+            "id": "InChI=1S/C9H13N3O2S/c13-8(14)6-4-2-1-3-5(6)7-10-9(15)12-11-7/h5-6H,1-4H2,(H,13,14)(H2,10,11,12,15)/t5-,6+/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 227.283,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 227.072847365,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as triazoles. These are compounds containing a five-member aromatic ring of two carbon atoms and three nitrogen atoms.",
+        "link": "https://go.drugbank.com/drugs/DB07850",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Escherichia coli (strain K12)",
+                "target": "UBeta-lactamase"
+            }
+        ]
+    },
+    {
+        "smiles": "OCC(=O)COP(O)(=O)OC1[C@H](O)[C@H](O)[C@@H](OP(O)(O)=O)[C@H](OP(O)(O)=O)[C@H]1O",
+        "id": "DB02028",
+        "molecule": "(1R,2R,3S,4R,6S)-3,4,6-Trihydroxy-5-{[(S)-hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-1,2-cyclohexanediyl bis[dihydrogen (phosphate)]",
+        "iupac_name": "{[(1R,2S,3R,5S,6R)-2,3,5-trihydroxy-4-{[hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-6-(phosphonooxy)cyclohexyl]oxy}phosphonic acid",
+        "inchi": {
+            "hash": "JBQPYAMQMBKZDT-WKBARDANSA-N",
+            "id": "InChI=1S/C9H19O17P3/c10-1-3(11)2-23-29(21,22)26-7-4(12)5(13)8(24-27(15,16)17)9(6(7)14)25-28(18,19)20/h4-10,12-14H,1-2H2,(H,21,22)(H2,15,16,17)(H2,18,19,20)/t4-,5+,6+,7?,8-,9-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 492.1582,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 491.983508718,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as inositol phosphates. These are compounds containing a phosphate group attached to an inositol (or cyclohexanehexol) moiety.",
+        "link": "https://go.drugbank.com/drugs/DB02028",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UTubby protein homolog"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCCCP(O)(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C",
+        "id": "DB08200",
+        "molecule": "(1R)-menthyl hexyl phosphonate group",
+        "iupac_name": "hexyl({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy})phosphinic acid",
+        "inchi": {
+            "hash": "WAVIZOVSJOXCKT-OWCLPIDISA-N",
+            "id": "InChI=1S/C16H33O3P/c1-5-6-7-8-11-20(17,18)19-16-12-14(4)9-10-15(16)13(2)3/h13-16H,5-12H2,1-4H3,(H,17,18)/t14-,15+,16-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 304.4052,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 304.216731434,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as menthane monoterpenoids. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone. P-menthane consists of the cyclohexane ring with a methyl group and a (2-methyl)-propyl group at the 1 and 4 ring position, respectively. The o- and m- menthanes are much rarer, and presumably arise by alkyl migration of p-menthanes.",
+        "link": "https://go.drugbank.com/drugs/DB08200",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCholinesterase"
+            }
+        ]
+    },
+    {
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1",
+        "id": "DB02047",
+        "molecule": "(+)-2-(4-biphenyl)propionic acid",
+        "cas": "10532-14-6",
+        "iupac_name": "(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid",
+        "inchi": {
+            "hash": "JALUUBQFLPUJMY-NSHDSACASA-N",
+            "id": "InChI=1S/C15H14O2/c1-11(15(16)17)12-7-9-14(10-8-12)13-5-3-2-4-6-13/h2-11H,1H3,(H,16,17)/t11-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 226.2705,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 226.099379692,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as biphenyls and derivatives. These are organic compounds containing to benzene rings linked together by a C-C bond.",
+        "link": "https://go.drugbank.com/drugs/DB02047",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(2S)-2-(4-Biphenylyl)propanoic acid",
+            "2-(1,1'-biphenyl-4-yl)propanoic acid"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProstaglandin G/H synthase 1"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB06830",
+        "molecule": "(1-HYDROXYHEPTANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+        "iupac_name": "(1-hydroxy-1-phosphonoheptyl)phosphonic acid",
+        "inchi": {
+            "hash": "IJEGNOYPWRBKAE-UHFFFAOYSA-N",
+            "id": "InChI=1S/C7H18O7P2/c1-2-3-4-5-6-7(8,15(9,10)11)16(12,13)14/h8H,2-6H2,1H3,(H2,9,10,11)(H2,12,13,14)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 276.1611,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 276.052775954,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06830",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGeranylgeranyl pyrophosphate synthase"
+            }
+        ]
+    },
+    {
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1",
+        "id": "DB02047",
+        "molecule": "(+)-2-(4-biphenyl)propionic acid",
+        "cas": "10532-14-6",
+        "iupac_name": "(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid",
+        "inchi": {
+            "hash": "JALUUBQFLPUJMY-NSHDSACASA-N",
+            "id": "InChI=1S/C15H14O2/c1-11(15(16)17)12-7-9-14(10-8-12)13-5-3-2-4-6-13/h2-11H,1H3,(H,16,17)/t11-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 226.2705,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 226.099379692,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as biphenyls and derivatives. These are organic compounds containing to benzene rings linked together by a C-C bond.",
+        "link": "https://go.drugbank.com/drugs/DB02047",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(2S)-2-(4-Biphenylyl)propanoic acid",
+            "2-(1,1'-biphenyl-4-yl)propanoic acid"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UProstaglandin G/H synthase 1"
+            }
+        ]
+    },
+    {
+        "smiles": "COC1=CC=C(C=C1)C1=CC=C(C=C1)S(=O)(=O)N[C@@H](C(C)C)P(O)(O)=O",
+        "id": "DB07772",
+        "molecule": "(1R)-1-{[(4'-methoxy-1,1'-biphenyl-4-yl)sulfonyl]amino}-2-methylpropylphosphonic acid",
+        "iupac_name": "[(1R)-1-{4'-methoxy-[1,1'-biphenyl]-4-sulfonamido}-2-methylpropyl]phosphonic acid",
+        "inchi": {
+            "hash": "BZVYQWLRCHLAGK-QGZVFWFLSA-N",
+            "id": "InChI=1S/C17H22NO6PS/c1-12(2)17(25(19,20)21)18-26(22,23)16-10-6-14(7-11-16)13-4-8-15(24-3)9-5-13/h4-12,17-18H,1-3H3,(H2,19,20,21)/t17-/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 399.398,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 399.090544643,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB07772",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UNeutrophil collagenase"
+            }
+        ]
+    },
+    {
+        "smiles": "[H][C@]12CN(CCN3NC4=C(C=CC=C4C3=O)C3=NC4=C(NC3=O)C=CC=C4O1)[C@]([H])(C)C2",
+        "id": "DB06888",
+        "molecule": "(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE",
+        "iupac_name": "(13R,15S)-13-methyl-16-oxa-8,9,12,22,24-pentaazahexacyclo[15.6.2.1^{6,9}.1^{12,15}.0^{2,7}.0^{21,25}]heptacosa-1(24),2(7),3,5,17,19,21(25)-heptaene-23,27-dione",
+        "inchi": {
+            "hash": "KBLPHMRCKHFBJB-OLZOCXBDSA-N",
+            "id": "InChI=1S/C22H21N5O3/c1-12-10-13-11-26(12)8-9-27-22(29)15-5-2-4-14(18(15)25-27)19-21(28)23-16-6-3-7-17(30-13)20(16)24-19/h2-7,12-13,25H,8-11H2,1H3,(H,23,28)/t12-,13+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 403.4338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 403.164439563,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as quinoxalines. These are compounds containing a quinoxaline moiety, a bicyclic heterocycle made up of a benzene ring fused to a pyrazine ring.",
+        "link": "https://go.drugbank.com/drugs/DB06888",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCyclin-dependent kinase 2"
+            }
+        ]
+    },
+    {
+        "smiles": "[H]N([H])C(=NC[C@H](OC(=O)C1=CN=CC=C1)C1=CC=C(C=C1)B1OC[C@@H](CO)O1)N([H])[H]",
+        "id": "DB07023",
+        "molecule": "(1R)-2-[(Diaminomethylene)amino]-1-{4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}ethyl nicotinate",
+        "iupac_name": "(1R)-2-[(diaminomethylidene)amino]-1-{4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}ethyl pyridine-3-carboxylate",
+        "inchi": {
+            "hash": "HGLWHYRZHMOCMC-CVEARBPZSA-N",
+            "id": "InChI=1S/C18H21BN4O5/c20-18(21)23-9-16(27-17(25)13-2-1-7-22-8-13)12-3-5-14(6-4-12)19-26-11-15(10-24)28-19/h1-8,15-16,24H,9-11H2,(H4,20,21,23)/t15-,16+/m1/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 384.194,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 384.160500268,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzyloxycarbonyls. These are organic compounds containing a carbonyl group substituted with a benzyloxyl group.",
+        "link": "https://go.drugbank.com/drugs/DB07023",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UCoagulation factor XI"
+            }
+        ]
+    },
+    {
+        "smiles": "CC(C)(O)[C@@H]1CC2=C(O1)C=C1OC(=O)C(=CC1=C2)C(C)(C)C=C",
+        "id": "DB02205",
+        "molecule": "(+)-Rutamarin alcohol",
+        "cas": "14755-47-6",
+        "iupac_name": "(2S)-2-(2-hydroxypropan-2-yl)-6-(2-methylbut-3-en-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one",
+        "inchi": {
+            "hash": "JCDLLLXYAICSQV-INIZCTEOSA-N",
+            "id": "InChI=1S/C19H22O4/c1-6-18(2,3)13-8-11-7-12-9-16(19(4,5)21)22-14(12)10-15(11)23-17(13)20/h6-8,10,16,21H,1,9H2,2-5H3/t16-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 314.3756,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 314.151809192,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as psoralens. These are organic compounds containing a psoralen moiety, which consists of a furan fused to a chromenone to for 7H-furo[3,2-g]chromen-7-one.",
+        "link": "https://go.drugbank.com/drugs/DB02205",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-Chalepin"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlyceraldehyde-3-phosphate dehydrogenase, testis-specific"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Trypanosoma cruzi",
+                "target": "UGlyceraldehyde-3-phosphate dehydrogenase, glycosomal"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCC\\C=C/C=C/CCCCCCCCC(O)=O",
+        "id": "DB04746",
+        "molecule": "(10E,12Z)-octadecadienoic acid",
+        "cas": "2420-56-6",
+        "iupac_name": "(10E,12Z)-octadeca-10,12-dienoic acid",
+        "inchi": {
+            "hash": "GKJZMAHZJGSBKD-NMMTYZSQSA-N",
+            "id": "InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-9H,2-5,10-17H2,1H3,(H,19,20)/b7-6-,9-8+"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 280.4455,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 280.240230268,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as lineolic acids and derivatives. These are derivatives of lineolic acid. Lineolic acid is a polyunsaturated omega-6 18 carbon long fatty acid, with two CC double bonds at the 9- and 12-positions.",
+        "link": "https://go.drugbank.com/drugs/DB04746",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(10E,12Z)-octadeca-10,12-dienoic acid",
+            "(E,Z)-octadeca-10,12-dienoic acid",
+            "10-trans-12-cis-CLA",
+            "10-trans-12-cis-conjugated linoleic acid",
+            "10-trans-12-cis-linoleic acid",
+            "10-trans-12-cis-octadecadienoic acid",
+            "10,12-trans,cis-octadecanoic acid",
+            "C18:2, n-6,8 cis,trans"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Propionibacterium acnes",
+                "target": "UPutative aminooxidase"
+            }
+        ]
+    },
+    {
+        "smiles": "ON1CCCC(C1=O)P(O)(O)=O",
+        "id": "DB17108",
+        "molecule": "(1-Hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+        "cas": "2004714-32-1",
+        "iupac_name": "(1-hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+        "inchi": {
+            "hash": "DVZQUMSQEGOYMX-UHFFFAOYSA-N",
+            "id": "InChI=1S/C5H10NO5P/c7-5-4(12(9,10)11)2-1-3-6(5)8/h4,8H,1-3H2,(H2,9,10,11)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 195.111,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 195.029659424,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB17108",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Phosphonic acid, p-(1-hydroxy-2-oxo-3-piperidinyl)-"
+        ],
+        "is_stub": true
+    },
+    {
+        "smiles": "CC[C@@H](C1=CC(NC(=O)CNC(=O)OC(C)(C)C)=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O",
+        "id": "DB08664",
+        "molecule": "({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester",
+        "iupac_name": "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate",
+        "inchi": {
+            "hash": "QUQQVMVIWCUYFV-KRWDZBQOSA-N",
+            "id": "InChI=1S/C25H28N2O6/c1-5-17(21-22(29)18-11-6-7-12-19(18)32-23(21)30)15-9-8-10-16(13-15)27-20(28)14-26-24(31)33-25(2,3)4/h6-13,17,29H,5,14H2,1-4H3,(H,26,31)(H,27,28)/t17-/m0/s1"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 452.4996,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 452.194736638,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 4-hydroxycoumarins. These are coumarins that contain one or more hydroxyl groups attached to C4-position the coumarin skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB08664",
+        "type": "Small Molecule",
+        "synonyms": [
+            "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate"
+        ],
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "HIV-2",
+                "target": "UGag-Pol polyprotein"
+            }
+        ]
+    },
+    {
+        "smiles": "CCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "id": "DB06830",
+        "molecule": "(1-HYDROXYHEPTANE-1,1-DIYL)BIS(PHOSPHONIC ACID)",
+        "iupac_name": "(1-hydroxy-1-phosphonoheptyl)phosphonic acid",
+        "inchi": {
+            "hash": "IJEGNOYPWRBKAE-UHFFFAOYSA-N",
+            "id": "InChI=1S/C7H18O7P2/c1-2-3-4-5-6-7(8,15(9,10)11)16(12,13)14/h8H,2-6H2,1H3,(H2,9,10,11)(H2,12,13,14)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 276.1611,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 276.052775954,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06830",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGeranylgeranyl pyrophosphate synthase"
+            }
+        ]
+    },
+    {
+        "smiles": "CN1C=CN=C1C(=O)C1=C(C)C2=C(O1)C=CC=C2OCCCNCC1=CN=CC=C1",
+        "id": "DB03062",
+        "molecule": "(1-Methyl-1h-Imidazol-2-Yl)-(3-Methyl-4-{3-[(Pyridin-3-Ylmethyl)-Amino]-Propoxy}-Benzofuran-2-Yl)-Methanone",
+        "iupac_name": "(3-{[3-methyl-2-(1-methyl-1H-imidazole-2-carbonyl)-1-benzofuran-4-yl]oxy}propyl)[(pyridin-3-yl)methyl]amine",
+        "inchi": {
+            "hash": "VZBQJKIOAOUYJL-UHFFFAOYSA-N",
+            "id": "InChI=1S/C23H24N4O3/c1-16-20-18(29-13-5-10-25-15-17-6-4-9-24-14-17)7-3-8-19(20)30-22(16)21(28)23-26-11-12-27(23)2/h3-4,6-9,11-12,14,25H,5,10,13,15H2,1-2H3"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.4617,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.184840654,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzofurans. These are organic compounds containing a benzene ring fused to a furan. Furan is a five-membered aromatic ring with four carbon atoms and one oxygen atom.",
+        "link": "https://go.drugbank.com/drugs/DB03062",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UGlycylpeptide N-tetradecanoyltransferase 1"
+            },
+            {
+                "action": "Not Available",
+                "organism": "Yeast",
+                "target": "UGlycylpeptide N-tetradecanoyltransferase"
+            }
+        ]
+    }
+]

@@ -1,0 +1,553 @@
+[
+    {
+        "smiles": "CCC1=CC2=C(S1)N(C)C(=O)CN=C2C1=CC=CC=C1Cl",
+        "id": "DB01559",
+        "molecule": "Clotiazepam",
+        "cas": "33671-46-4",
+        "iupac_name": "5-(2-chlorophenyl)-7-ethyl-1-methyl-1H,2H,3H-thieno[2,3-e][1,4]diazepin-2-one",
+        "background": "Clotiazepam is a thienodiazepine, not approved for sale in the U.S. or Canada, but has been approved in the U.K. It is a schedule IV drug in Canada.\n",
+        "inchi": {
+            "hash": "CHBRHODLKOZEPZ-UHFFFAOYSA-N",
+            "id": "InChI=1S/C16H15ClN2OS/c1-3-10-8-12-15(11-6-4-5-7-13(11)17)18-9-14(20)19(2)16(12)21-10/h4-8H,3,9H2,1-2H3"
+        },
+        "summary": "Clotiazepam is a thienodiazepine used to manage anxiety disorders and insomnia.",
+        "weight": [
+            {
+                "type": "average",
+                "weight": 318.821,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 318.059361509,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as thienodiazepines. These are heteropolycyclic containing a thiophene ring fused to a diazepine ring. Thiophene is 5-membered ring consisting of four carbon and one sulfur atoms. Diazepine is a 7-membered ring consisting of five carbon and two nitrogen atoms.",
+        "link": "https://go.drugbank.com/drugs/DB01559/",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Clotiazepam",
+            "Clotiazepamum"
+        ],
+        "indication": "For the treatment of anxiety disorders.\nReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "pharmacodynamics": "Clotiazepam is a thienodiazepine possessing anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It increases the stage 2 non-rapid eye movement sleep.\n",
+        "moa": [
+            {
+                "action": "positive allosteric modulator",
+                "organism": "Humans",
+                "target": "AGABA(A) Receptor"
+            },
+            {
+                "action": "ligand",
+                "organism": "Humans",
+                "target": "AGABA(A) Receptor Benzodiazepine Binding Site"
+            }
+        ],
+        "drug_interactions": [
+            [
+                "DB12537",
+                "1,2-Benzodiazepine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with 1,2-Benzodiazepine."
+            ],
+            [
+                "DB13940",
+                "2,5-Dimethoxy-4-ethylthioamphetamine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with 2,5-Dimethoxy-4-ethylthioamphetamine."
+            ],
+            [
+                "DB07954",
+                "3-isobutyl-1-methyl-7H-xanthine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 3-isobutyl-1-methyl-7H-xanthine."
+            ],
+            [
+                "DB01484",
+                "4-Bromo-2,5-dimethoxyamphetamine",
+                "The risk or severity of CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Clotiazepam."
+            ],
+            [
+                "DB01472",
+                "4-Methoxyamphetamine",
+                "The risk or severity of CNS depression can be increased when 4-Methoxyamphetamine is combined with Clotiazepam."
+            ],
+            [
+                "DB14010",
+                "5-methoxy-N,N-dimethyltryptamine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with 5-methoxy-N,N-dimethyltryptamine."
+            ],
+            [
+                "DB11919",
+                "6-O-benzylguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 6-O-benzylguanine."
+            ],
+            [
+                "DB02245",
+                "7-Deazaguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 7-Deazaguanine."
+            ],
+            [
+                "DB02207",
+                "7-Nitroindazole",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with 7-Nitroindazole."
+            ],
+            [
+                "DB08550",
+                "7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline."
+            ],
+            [
+                "DB01978",
+                "7,9-Dimethylguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 7,9-Dimethylguanine."
+            ],
+            [
+                "DB01667",
+                "8-azaguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 8-azaguanine."
+            ],
+            [
+                "DB14132",
+                "8-chlorotheophylline",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 8-chlorotheophylline."
+            ],
+            [
+                "DB04356",
+                "9-Deazaguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 9-Deazaguanine."
+            ],
+            [
+                "DB02489",
+                "9-Methylguanine",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 9-Methylguanine."
+            ],
+            [
+                "DB11932",
+                "Abametapir",
+                "The serum concentration of Clotiazepam can be increased when it is combined with Abametapir."
+            ],
+            [
+                "DB01281",
+                "Abatacept",
+                "The metabolism of Clotiazepam can be increased when combined with Abatacept."
+            ],
+            [
+                "DB13573",
+                "Acefylline",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Acefylline."
+            ],
+            [
+                "DB01614",
+                "Acepromazine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Acepromazine."
+            ],
+            [
+                "DB01615",
+                "Aceprometazine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aceprometazine."
+            ],
+            [
+                "DB00819",
+                "Acetazolamide",
+                "The risk or severity of CNS depression can be increased when Acetazolamide is combined with Clotiazepam."
+            ],
+            [
+                "DB01063",
+                "Acetophenazine",
+                "The risk or severity of CNS depression can be increased when Acetophenazine is combined with Clotiazepam."
+            ],
+            [
+                "DB13402",
+                "Acetylglycinamide chloral hydrate",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Acetylglycinamide chloral hydrate."
+            ],
+            [
+                "DB00051",
+                "Adalimumab",
+                "The metabolism of Clotiazepam can be increased when combined with Adalimumab."
+            ],
+            [
+                "DB00546",
+                "Adinazolam",
+                "The risk or severity of CNS depression can be increased when Adinazolam is combined with Clotiazepam."
+            ],
+            [
+                "DB06579",
+                "Adipiplon",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Adipiplon."
+            ],
+            [
+                "DB04956",
+                "Afelimomab",
+                "The metabolism of Clotiazepam can be increased when combined with Afelimomab."
+            ],
+            [
+                "DB06594",
+                "Agomelatine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Agomelatine."
+            ],
+            [
+                "DB13233",
+                "Alaproclate",
+                "The risk or severity of adverse effects can be increased when Clotiazepam is combined with Alaproclate."
+            ],
+            [
+                "DB13648",
+                "Alcuronium",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alcuronium."
+            ],
+            [
+                "DB11371",
+                "Alfaxalone",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alfaxalone."
+            ],
+            [
+                "DB00802",
+                "Alfentanil",
+                "The risk or severity of adverse effects can be increased when Alfentanil is combined with Clotiazepam."
+            ],
+            [
+                "DB01246",
+                "Alimemazine",
+                "The risk or severity of CNS depression can be increased when Alimemazine is combined with Clotiazepam."
+            ],
+            [
+                "DB13577",
+                "Allobarbital",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Allobarbital."
+            ],
+            [
+                "DB00918",
+                "Almotriptan",
+                "The risk or severity of CNS depression can be increased when Almotriptan is combined with Clotiazepam."
+            ],
+            [
+                "DB00969",
+                "Alosetron",
+                "The risk or severity of CNS depression can be increased when Alosetron is combined with Clotiazepam."
+            ],
+            [
+                "DB12015",
+                "Alpelisib",
+                "The metabolism of Clotiazepam can be increased when combined with Alpelisib."
+            ],
+            [
+                "DB01555",
+                "Alphacetylmethadol",
+                "The risk or severity of adverse effects can be increased when Alphacetylmethadol is combined with Clotiazepam."
+            ],
+            [
+                "DB13160",
+                "Alphaprodine",
+                "The risk or severity of adverse effects can be increased when Alphaprodine is combined with Clotiazepam."
+            ],
+            [
+                "DB00404",
+                "Alprazolam",
+                "The risk or severity of CNS depression can be increased when Alprazolam is combined with Clotiazepam."
+            ],
+            [
+                "DB00866",
+                "Alprenolol",
+                "The risk or severity of CNS depression can be increased when Alprenolol is combined with Clotiazepam."
+            ],
+            [
+                "DB01616",
+                "Alverine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alverine."
+            ],
+            [
+                "DB04836",
+                "Amineptine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amineptine."
+            ],
+            [
+                "DB01223",
+                "Aminophylline",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Aminophylline."
+            ],
+            [
+                "DB01118",
+                "Amiodarone",
+                "The metabolism of Clotiazepam can be decreased when combined with Amiodarone."
+            ],
+            [
+                "DB06288",
+                "Amisulpride",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amisulpride."
+            ],
+            [
+                "DB00321",
+                "Amitriptyline",
+                "The risk or severity of CNS depression can be increased when Amitriptyline is combined with Clotiazepam."
+            ],
+            [
+                "DB13114",
+                "Amitriptylinoxide",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amitriptylinoxide."
+            ],
+            [
+                "DB01351",
+                "Amobarbital",
+                "The risk or severity of CNS depression can be increased when Amobarbital is combined with Clotiazepam."
+            ],
+            [
+                "DB00543",
+                "Amoxapine",
+                "The risk or severity of CNS depression can be increased when Amoxapine is combined with Clotiazepam."
+            ],
+            [
+                "DB08927",
+                "Amperozide",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amperozide."
+            ],
+            [
+                "DB00701",
+                "Amprenavir",
+                "The metabolism of Clotiazepam can be decreased when combined with Amprenavir."
+            ],
+            [
+                "DB00026",
+                "Anakinra",
+                "The metabolism of Clotiazepam can be increased when combined with Anakinra."
+            ],
+            [
+                "DB04599",
+                "Aniracetam",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aniracetam."
+            ],
+            [
+                "DB01435",
+                "Antipyrine",
+                "The metabolism of Clotiazepam can be decreased when combined with Antipyrine."
+            ],
+            [
+                "DB11901",
+                "Apalutamide",
+                "The serum concentration of Clotiazepam can be decreased when it is combined with Apalutamide."
+            ],
+            [
+                "DB05227",
+                "APD791",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with APD791."
+            ],
+            [
+                "DB00714",
+                "Apomorphine",
+                "The risk or severity of CNS depression can be increased when Apomorphine is combined with Clotiazepam."
+            ],
+            [
+                "DB05676",
+                "Apremilast",
+                "The metabolism of Clotiazepam can be increased when combined with Apremilast."
+            ],
+            [
+                "DB00673",
+                "Aprepitant",
+                "The metabolism of Clotiazepam can be decreased when combined with Aprepitant."
+            ],
+            [
+                "DB01352",
+                "Aprobarbital",
+                "The risk or severity of CNS depression can be increased when Aprobarbital is combined with Clotiazepam."
+            ],
+            [
+                "DB13221",
+                "Apronalide",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Apronalide."
+            ],
+            [
+                "DB08892",
+                "Arbaclofen Placarbil",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Arbaclofen Placarbil."
+            ],
+            [
+                "DB01238",
+                "Aripiprazole",
+                "The risk or severity of CNS depression can be increased when Aripiprazole is combined with Clotiazepam."
+            ],
+            [
+                "DB14185",
+                "Aripiprazole lauroxil",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aripiprazole lauroxil."
+            ],
+            [
+                "DB06413",
+                "Armodafinil",
+                "The metabolism of Clotiazepam can be increased when combined with Armodafinil."
+            ],
+            [
+                "DB06697",
+                "Artemether",
+                "The metabolism of Artemether can be decreased when combined with Clotiazepam."
+            ],
+            [
+                "DB13132",
+                "Artemisinin",
+                "The metabolism of Artemisinin can be decreased when combined with Clotiazepam."
+            ],
+            [
+                "DB09009",
+                "Articaine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Articaine."
+            ],
+            [
+                "DB06216",
+                "Asenapine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Asenapine."
+            ],
+            [
+                "DB11586",
+                "Asunaprevir",
+                "The metabolism of Asunaprevir can be decreased when combined with Clotiazepam."
+            ],
+            [
+                "DB01072",
+                "Atazanavir",
+                "The metabolism of Clotiazepam can be decreased when combined with Atazanavir."
+            ],
+            [
+                "DB13295",
+                "Atracurium",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Atracurium."
+            ],
+            [
+                "DB00732",
+                "Atracurium besylate",
+                "The risk or severity of CNS depression can be increased when Atracurium besylate is combined with Clotiazepam."
+            ],
+            [
+                "DB06237",
+                "Avanafil",
+                "The serum concentration of Avanafil can be increased when it is combined with Clotiazepam."
+            ],
+            [
+                "DB11376",
+                "Azaperone",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Azaperone."
+            ],
+            [
+                "DB12576",
+                "AZD-3043",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with AZD-3043."
+            ],
+            [
+                "DB00972",
+                "Azelastine",
+                "Clotiazepam may increase the central nervous system depressant (CNS depressant) activities of Azelastine."
+            ],
+            [
+                "DB00181",
+                "Baclofen",
+                "Baclofen may increase the central nervous system depressant (CNS depressant) activities of Clotiazepam."
+            ],
+            [
+                "DB13203",
+                "Bamifylline",
+                "The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Bamifylline."
+            ],
+            [
+                "DB04975",
+                "Banoxantrone",
+                "The metabolism of Banoxantrone can be decreased when combined with Clotiazepam."
+            ],
+            [
+                "DB09001",
+                "Barbexaclone",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Barbexaclone."
+            ],
+            [
+                "DB01483",
+                "Barbital",
+                "The risk or severity of CNS depression can be increased when Barbital is combined with Clotiazepam."
+            ],
+            [
+                "DB09227",
+                "Barnidipine",
+                "The metabolism of Clotiazepam can be decreased when combined with Barnidipine."
+            ],
+            [
+                "DB09011",
+                "Beclamide",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Beclamide."
+            ],
+            [
+                "DB09023",
+                "Benactyzine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benactyzine."
+            ],
+            [
+                "DB09231",
+                "Benidipine",
+                "The metabolism of Clotiazepam can be decreased when combined with Benidipine."
+            ],
+            [
+                "DB09246",
+                "Benmoxin",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benmoxin."
+            ],
+            [
+                "DB12867",
+                "Benperidol",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benperidol."
+            ],
+            [
+                "DB14719",
+                "Bentazepam",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bentazepam."
+            ],
+            [
+                "DB15465",
+                "Benzhydrocodone",
+                "The risk or severity of adverse effects can be increased when Benzhydrocodone is combined with Clotiazepam."
+            ],
+            [
+                "DB01086",
+                "Benzocaine",
+                "The risk or severity of CNS depression can be increased when Benzocaine is combined with Clotiazepam."
+            ],
+            [
+                "DB09021",
+                "Benzoctamine",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benzoctamine."
+            ],
+            [
+                "DB00865",
+                "Benzphetamine",
+                "The risk or severity of CNS depression can be increased when Benzphetamine is combined with Clotiazepam."
+            ],
+            [
+                "DB06770",
+                "Benzyl alcohol",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benzyl alcohol."
+            ],
+            [
+                "DB15982",
+                "Berotralstat",
+                "The metabolism of Clotiazepam can be decreased when combined with Berotralstat."
+            ],
+            [
+                "DB00443",
+                "Betamethasone",
+                "The metabolism of Clotiazepam can be increased when combined with Betamethasone."
+            ],
+            [
+                "DB01459",
+                "Bezitramide",
+                "The risk or severity of adverse effects can be increased when Bezitramide is combined with Clotiazepam."
+            ],
+            [
+                "DB13550",
+                "Bifemelane",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bifemelane."
+            ],
+            [
+                "DB04888",
+                "Bifeprunox",
+                "The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bifeprunox."
+            ]
+        ],
+        "drug_interactions_raw": "This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your software\n\n\n1,2-BenzodiazepineThe risk or severity of CNS depression can be increased when Clotiazepam is combined with 1,2-Benzodiazepine.AbametapirThe serum concentration of Clotiazepam can be increased when it is combined with Abametapir.AbataceptThe metabolism of Clotiazepam can be increased when combined with Abatacept.AcetazolamideThe risk or severity of CNS depression can be increased when Acetazolamide is combined with Clotiazepam.AcetophenazineThe risk or severity of CNS depression can be increased when Acetophenazine is combined with Clotiazepam.AdalimumabThe metabolism of Clotiazepam can be increased when combined with Adalimumab.AgomelatineThe risk or severity of CNS depression can be increased when Clotiazepam is combined with Agomelatine.AlfentanilThe risk or severity of adverse effects can be increased when Alfentanil is combined with Clotiazepam.AlimemazineThe risk or severity of CNS depression can be increased when Alimemazine is combined with Clotiazepam.AlmotriptanThe risk or severity of CNS depression can be increased when Almotriptan is combined with Clotiazepam.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   ",
+        "drug_interactions_link": "https://go.drugbank.com/drugs/DB01559/drug_interactions.json?start=0\u0026length=100\u0026_=1701104484",
+        "drug_interactions_page": "{\"draw\":1,\"recordsTotal\":875,\"recordsFiltered\":875,\"data\":[[\"\\u003ca href=\\\"/drugs/DB12537\\\"\\u003e1,2-Benzodiazepine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with 1,2-Benzodiazepine.\"],[\"\\u003ca href=\\\"/drugs/DB13940\\\"\\u003e2,5-Dimethoxy-4-ethylthioamphetamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with 2,5-Dimethoxy-4-ethylthioamphetamine.\"],[\"\\u003ca href=\\\"/drugs/DB07954\\\"\\u003e3-isobutyl-1-methyl-7H-xanthine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 3-isobutyl-1-methyl-7H-xanthine.\"],[\"\\u003ca href=\\\"/drugs/DB01484\\\"\\u003e4-Bromo-2,5-dimethoxyamphetamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01472\\\"\\u003e4-Methoxyamphetamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when 4-Methoxyamphetamine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB14010\\\"\\u003e5-methoxy-N,N-dimethyltryptamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with 5-methoxy-N,N-dimethyltryptamine.\"],[\"\\u003ca href=\\\"/drugs/DB11919\\\"\\u003e6-O-benzylguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 6-O-benzylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB02245\\\"\\u003e7-Deazaguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 7-Deazaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB02207\\\"\\u003e7-Nitroindazole\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with 7-Nitroindazole.\"],[\"\\u003ca href=\\\"/drugs/DB08550\\\"\\u003e7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline.\"],[\"\\u003ca href=\\\"/drugs/DB01978\\\"\\u003e7,9-Dimethylguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 7,9-Dimethylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB01667\\\"\\u003e8-azaguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 8-azaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB14132\\\"\\u003e8-chlorotheophylline\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 8-chlorotheophylline.\"],[\"\\u003ca href=\\\"/drugs/DB04356\\\"\\u003e9-Deazaguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 9-Deazaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB02489\\\"\\u003e9-Methylguanine\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with 9-Methylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB11932\\\"\\u003eAbametapir\\u003c/a\\u003e\",\"The serum concentration of Clotiazepam can be increased when it is combined with Abametapir.\"],[\"\\u003ca href=\\\"/drugs/DB01281\\\"\\u003eAbatacept\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Abatacept.\"],[\"\\u003ca href=\\\"/drugs/DB13573\\\"\\u003eAcefylline\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Acefylline.\"],[\"\\u003ca href=\\\"/drugs/DB01614\\\"\\u003eAcepromazine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Acepromazine.\"],[\"\\u003ca href=\\\"/drugs/DB01615\\\"\\u003eAceprometazine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aceprometazine.\"],[\"\\u003ca href=\\\"/drugs/DB00819\\\"\\u003eAcetazolamide\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Acetazolamide is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01063\\\"\\u003eAcetophenazine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Acetophenazine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13402\\\"\\u003eAcetylglycinamide chloral hydrate\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Acetylglycinamide chloral hydrate.\"],[\"\\u003ca href=\\\"/drugs/DB00051\\\"\\u003eAdalimumab\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Adalimumab.\"],[\"\\u003ca href=\\\"/drugs/DB00546\\\"\\u003eAdinazolam\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Adinazolam is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB06579\\\"\\u003eAdipiplon\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Adipiplon.\"],[\"\\u003ca href=\\\"/drugs/DB04956\\\"\\u003eAfelimomab\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Afelimomab.\"],[\"\\u003ca href=\\\"/drugs/DB06594\\\"\\u003eAgomelatine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Agomelatine.\"],[\"\\u003ca href=\\\"/drugs/DB13233\\\"\\u003eAlaproclate\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Clotiazepam is combined with Alaproclate.\"],[\"\\u003ca href=\\\"/drugs/DB13648\\\"\\u003eAlcuronium\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alcuronium.\"],[\"\\u003ca href=\\\"/drugs/DB11371\\\"\\u003eAlfaxalone\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alfaxalone.\"],[\"\\u003ca href=\\\"/drugs/DB00802\\\"\\u003eAlfentanil\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Alfentanil is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01246\\\"\\u003eAlimemazine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Alimemazine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13577\\\"\\u003eAllobarbital\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Allobarbital.\"],[\"\\u003ca href=\\\"/drugs/DB00918\\\"\\u003eAlmotriptan\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Almotriptan is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB00969\\\"\\u003eAlosetron\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Alosetron is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB12015\\\"\\u003eAlpelisib\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Alpelisib.\"],[\"\\u003ca href=\\\"/drugs/DB01555\\\"\\u003eAlphacetylmethadol\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Alphacetylmethadol is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13160\\\"\\u003eAlphaprodine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Alphaprodine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB00404\\\"\\u003eAlprazolam\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Alprazolam is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB00866\\\"\\u003eAlprenolol\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Alprenolol is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01616\\\"\\u003eAlverine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Alverine.\"],[\"\\u003ca href=\\\"/drugs/DB04836\\\"\\u003eAmineptine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amineptine.\"],[\"\\u003ca href=\\\"/drugs/DB01223\\\"\\u003eAminophylline\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Aminophylline.\"],[\"\\u003ca href=\\\"/drugs/DB01118\\\"\\u003eAmiodarone\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Amiodarone.\"],[\"\\u003ca href=\\\"/drugs/DB06288\\\"\\u003eAmisulpride\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amisulpride.\"],[\"\\u003ca href=\\\"/drugs/DB00321\\\"\\u003eAmitriptyline\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Amitriptyline is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13114\\\"\\u003eAmitriptylinoxide\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amitriptylinoxide.\"],[\"\\u003ca href=\\\"/drugs/DB01351\\\"\\u003eAmobarbital\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Amobarbital is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB00543\\\"\\u003eAmoxapine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Amoxapine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB08927\\\"\\u003eAmperozide\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Amperozide.\"],[\"\\u003ca href=\\\"/drugs/DB00701\\\"\\u003eAmprenavir\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Amprenavir.\"],[\"\\u003ca href=\\\"/drugs/DB00026\\\"\\u003eAnakinra\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Anakinra.\"],[\"\\u003ca href=\\\"/drugs/DB04599\\\"\\u003eAniracetam\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aniracetam.\"],[\"\\u003ca href=\\\"/drugs/DB01435\\\"\\u003eAntipyrine\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Antipyrine.\"],[\"\\u003ca href=\\\"/drugs/DB11901\\\"\\u003eApalutamide\\u003c/a\\u003e\",\"The serum concentration of Clotiazepam can be decreased when it is combined with Apalutamide.\"],[\"\\u003ca href=\\\"/drugs/DB05227\\\"\\u003eAPD791\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with APD791.\"],[\"\\u003ca href=\\\"/drugs/DB00714\\\"\\u003eApomorphine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Apomorphine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB05676\\\"\\u003eApremilast\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Apremilast.\"],[\"\\u003ca href=\\\"/drugs/DB00673\\\"\\u003eAprepitant\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Aprepitant.\"],[\"\\u003ca href=\\\"/drugs/DB01352\\\"\\u003eAprobarbital\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Aprobarbital is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13221\\\"\\u003eApronalide\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Apronalide.\"],[\"\\u003ca href=\\\"/drugs/DB08892\\\"\\u003eArbaclofen Placarbil\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Arbaclofen Placarbil.\"],[\"\\u003ca href=\\\"/drugs/DB01238\\\"\\u003eAripiprazole\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Aripiprazole is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB14185\\\"\\u003eAripiprazole lauroxil\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Aripiprazole lauroxil.\"],[\"\\u003ca href=\\\"/drugs/DB06413\\\"\\u003eArmodafinil\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Armodafinil.\"],[\"\\u003ca href=\\\"/drugs/DB06697\\\"\\u003eArtemether\\u003c/a\\u003e\",\"The metabolism of Artemether can be decreased when combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13132\\\"\\u003eArtemisinin\\u003c/a\\u003e\",\"The metabolism of Artemisinin can be decreased when combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB09009\\\"\\u003eArticaine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Articaine.\"],[\"\\u003ca href=\\\"/drugs/DB06216\\\"\\u003eAsenapine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Asenapine.\"],[\"\\u003ca href=\\\"/drugs/DB11586\\\"\\u003eAsunaprevir\\u003c/a\\u003e\",\"The metabolism of Asunaprevir can be decreased when combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01072\\\"\\u003eAtazanavir\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Atazanavir.\"],[\"\\u003ca href=\\\"/drugs/DB13295\\\"\\u003eAtracurium\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Atracurium.\"],[\"\\u003ca href=\\\"/drugs/DB00732\\\"\\u003eAtracurium besylate\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Atracurium besylate is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB06237\\\"\\u003eAvanafil\\u003c/a\\u003e\",\"The serum concentration of Avanafil can be increased when it is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB11376\\\"\\u003eAzaperone\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Azaperone.\"],[\"\\u003ca href=\\\"/drugs/DB12576\\\"\\u003eAZD-3043\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with AZD-3043.\"],[\"\\u003ca href=\\\"/drugs/DB00972\\\"\\u003eAzelastine\\u003c/a\\u003e\",\"Clotiazepam may increase the central nervous system depressant (CNS depressant) activities of Azelastine.\"],[\"\\u003ca href=\\\"/drugs/DB00181\\\"\\u003eBaclofen\\u003c/a\\u003e\",\"Baclofen may increase the central nervous system depressant (CNS depressant) activities of Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13203\\\"\\u003eBamifylline\\u003c/a\\u003e\",\"The therapeutic efficacy of Clotiazepam can be decreased when used in combination with Bamifylline.\"],[\"\\u003ca href=\\\"/drugs/DB04975\\\"\\u003eBanoxantrone\\u003c/a\\u003e\",\"The metabolism of Banoxantrone can be decreased when combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB09001\\\"\\u003eBarbexaclone\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Barbexaclone.\"],[\"\\u003ca href=\\\"/drugs/DB01483\\\"\\u003eBarbital\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Barbital is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB09227\\\"\\u003eBarnidipine\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Barnidipine.\"],[\"\\u003ca href=\\\"/drugs/DB09011\\\"\\u003eBeclamide\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Beclamide.\"],[\"\\u003ca href=\\\"/drugs/DB09023\\\"\\u003eBenactyzine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benactyzine.\"],[\"\\u003ca href=\\\"/drugs/DB09231\\\"\\u003eBenidipine\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Benidipine.\"],[\"\\u003ca href=\\\"/drugs/DB09246\\\"\\u003eBenmoxin\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benmoxin.\"],[\"\\u003ca href=\\\"/drugs/DB12867\\\"\\u003eBenperidol\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benperidol.\"],[\"\\u003ca href=\\\"/drugs/DB14719\\\"\\u003eBentazepam\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bentazepam.\"],[\"\\u003ca href=\\\"/drugs/DB15465\\\"\\u003eBenzhydrocodone\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Benzhydrocodone is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB01086\\\"\\u003eBenzocaine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Benzocaine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB09021\\\"\\u003eBenzoctamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benzoctamine.\"],[\"\\u003ca href=\\\"/drugs/DB00865\\\"\\u003eBenzphetamine\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Benzphetamine is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB06770\\\"\\u003eBenzyl alcohol\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Benzyl alcohol.\"],[\"\\u003ca href=\\\"/drugs/DB15982\\\"\\u003eBerotralstat\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be decreased when combined with Berotralstat.\"],[\"\\u003ca href=\\\"/drugs/DB00443\\\"\\u003eBetamethasone\\u003c/a\\u003e\",\"The metabolism of Clotiazepam can be increased when combined with Betamethasone.\"],[\"\\u003ca href=\\\"/drugs/DB01459\\\"\\u003eBezitramide\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Bezitramide is combined with Clotiazepam.\"],[\"\\u003ca href=\\\"/drugs/DB13550\\\"\\u003eBifemelane\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bifemelane.\"],[\"\\u003ca href=\\\"/drugs/DB04888\\\"\\u003eBifeprunox\\u003c/a\\u003e\",\"The risk or severity of CNS depression can be increased when Clotiazepam is combined with Bifeprunox.\"]]}"
+    }
+]

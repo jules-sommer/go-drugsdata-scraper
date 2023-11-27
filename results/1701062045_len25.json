@@ -1,0 +1,613 @@
+[
+    {
+        "smiles": "CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 204.357,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 204.187800773,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB18097",
+        "type": "Small Molecule",
+        "synonyms": [
+            ".beta.-elemene",
+            "(-)-.beta.-elemene",
+            "(-)-B-elemene",
+            "(-)-beta-Elemene",
+            "Cyclohexane",
+            "1-ethenyl-1-methyl-2",
+            "4-bis(1-methylethenyl)-",
+            "(1s",
+            "2s",
+            "4r)-",
+            "Elemene",
+            "(-)-.beta.-"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "CC(C)(O)[C@@H]1CC2=C(O1)C=C1OC(=O)C(=CC1=C2)C(C)(C)C=C",
+        "iupac_name": "(2S)-2-(2-hydroxypropan-2-yl)-6-(2-methylbut-3-en-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 314.3756,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 314.151809192,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as psoralens. These are organic compounds containing a psoralen moiety, which consists of a furan fused to a chromenone to for 7H-furo[3,2-g]chromen-7-one.",
+        "link": "https://go.drugbank.com/drugs/DB02205",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-Chalepin"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H][C@]1(CC#N)CC[C@@]2([H])[C@]3([H])CCC4=CC(OS(N)(=O)=O)=C(OC)C=C4[C@@]3([H])CC[C@]12C",
+        "iupac_name": "(1R,3aS,3bS,9bS,11aR)-1-(cyanomethyl)-8-methoxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-yl sulfamate",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.523,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.176978084,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as estrane steroids. These are steroids with a structure based on the estrane skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07596",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H]N([H])C1=NC(=O)C2=C(C=CC(C[C@@H](C(O)=O)C3=CC=C(C=C3)C(=O)N([H])[C@@H](CCC(O)=O)C(O)=O)=C2)N1[H]",
+        "iupac_name": "(2S)-2-({4-[(1R)-2-(2-amino-4-oxo-1,4-dihydroquinazolin-6-yl)-1-carboxyethyl]phenyl}formamido)pentanedioic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 482.4428,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 482.1437637,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as glutamic acid and derivatives. These are compounds containing glutamic acid or a derivative thereof resulting from reaction of glutamic acid at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom.",
+        "link": "https://go.drugbank.com/drugs/DB04264",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CN1C=CN=C1C(=O)C1=C(C)C2=C(O1)C=CC=C2OCCCNCC1=CN=CC=C1",
+        "iupac_name": "(3-{[3-methyl-2-(1-methyl-1H-imidazole-2-carbonyl)-1-benzofuran-4-yl]oxy}propyl)[(pyridin-3-yl)methyl]amine",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 404.4617,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 404.184840654,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzofurans. These are organic compounds containing a benzene ring fused to a furan. Furan is a five-membered aromatic ring with four carbon atoms and one oxygen atom.",
+        "link": "https://go.drugbank.com/drugs/DB03062",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CCCCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "iupac_name": "(1-hydroxy-1-phosphonononyl)phosphonic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 304.2143,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 304.084076082,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06931",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CCCCC\\C=C/C=C/CCCCCCCCC(O)=O",
+        "iupac_name": "(10E,12Z)-octadeca-10,12-dienoic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 280.4455,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 280.240230268,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as lineolic acids and derivatives. These are derivatives of lineolic acid. Lineolic acid is a polyunsaturated omega-6 18 carbon long fatty acid, with two CC double bonds at the 9- and 12-positions.",
+        "link": "https://go.drugbank.com/drugs/DB04746",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(10E",
+            "12Z)-octadeca-10",
+            "12-dienoic acid",
+            "(E",
+            "Z)-octadeca-10",
+            "12-dienoic acid",
+            "10-trans-12-cis-CLA",
+            "10-trans-12-cis-conjugated linoleic acid",
+            "10-trans-12-cis-linoleic acid",
+            "10-trans-12-cis-octadecadienoic acid",
+            "10",
+            "12-trans",
+            "cis-octadecanoic acid",
+            "C18:2",
+            "n-6",
+            "8 cis",
+            "trans"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CC[C@@H](C1=CC(NC(=O)CNC(=O)OC(C)(C)C)=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O",
+        "iupac_name": "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 452.4996,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 452.194736638,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 4-hydroxycoumarins. These are coumarins that contain one or more hydroxyl groups attached to C4-position the coumarin skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB08664",
+        "type": "Small Molecule",
+        "synonyms": [
+            "tert-butyl N-[({3-[(1S)-1-(4-hydroxy-2-oxo-2H-chromen-3-yl)propyl]phenyl}carbamoyl)methyl]carbamate"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "O\\N=C1/CCC2=CC(=CC=C12)C1=CN(N=C1C1=CC=NC=C1)C1CCNCC1",
+        "iupac_name": "N-[(1E)-5-[1-(piperidin-4-yl)-3-(pyridin-4-yl)-1H-pyrazol-4-yl]-2,3-dihydro-1H-inden-1-ylidene]hydroxylamine",
+        "background": "(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1h-pyrazol-4-yl)-2,3-dihydro-1h-inden-1-one oxime is a solid. This compound belongs to the phenylpyrazoles. These are compounds containing a phenylpyrazole skeleton, which consists of a pyrazole bound to a phenyl group. It targets the protein serine/threonine-protein kinase B-raf.\n",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 373.4509,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 373.190260383,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indanes. These are compounds containing an indane moiety, which consists of a cyclopentane fused to a benzene ring.",
+        "link": "https://go.drugbank.com/drugs/DB08553",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H][C@]1(C2CCN(CC2)S(C)(=O)=O)C2=C(C=C(Cl)C=C2)C(=CC2=C1N=CC=C2)N1CCNCC1",
+        "iupac_name": "(2S)-13-chloro-2-(1-methanesulfonylpiperidin-4-yl)-10-(piperazin-1-yl)-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,9,12,14-heptaene",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 473.031,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 472.169974589,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzocycloheptapyridines. These are aromatic compounds containing a benzene ring and a pyridine ring fused to a seven membered carbocycle.",
+        "link": "https://go.drugbank.com/drugs/DB07216",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "COC1=CC2=C(C=C1)N(CC1=CC=CC=C1)C(C)=C2CC(O)=O",
+        "iupac_name": "2-(1-benzyl-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 309.3591,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 309.136493479,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indole-3-acetic acid derivatives. These are compounds containing an acetic acid (or a derivative) linked to the C3 carbon atom of an indole.",
+        "link": "https://go.drugbank.com/drugs/DB03121",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "OC(=O)CO\\N=C1/C2=CC=CCC2=N/C/1=C1\\C(=O)N=C2CC=CC=C12",
+        "iupac_name": "2-({[(Z,3E)-2'-oxo-3,7-dihydro-2'H,7'H-[2,3'-biindolyliden]-3-ylidene]amino}oxy)acetic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 335.3135,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 335.090605919,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as indoles and derivatives. These are organic compounds containing an indole, which is a bicyclic ring system made up of a six-membered benzene ring fused to a five-membered nitrogen-containing pyrrole ring.",
+        "link": "https://go.drugbank.com/drugs/DB07949",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C",
+        "iupac_name": "(1S,3aS,3bR,9aR,9bS,11aS)-1-hydroxy-9a,11a-dimethyl(4,5,8,9-3H4)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 296.463,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 296.241827085,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14093",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Testosterone",
+            "1",
+            "2",
+            "6",
+            "7-H-3"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O",
+        "iupac_name": "(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 233.2266,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 233.091274621,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as 1,3-substituted cyclopentyl purine nucleosides. These are nucleoside analogues with a structure that consists of a cyclobutane that is substituted a the 1-position with a hydroxyl group and at the 3-position with either a purine base.",
+        "link": "https://go.drugbank.com/drugs/DB03216",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "OC(CC1=CC=CC(=C1)C1=CC=C(C=C1)C1=CC=CC=C1)(P(O)(O)=O)P(O)(O)=O",
+        "iupac_name": "(1-hydroxy-2-{4'-phenyl-[1,1'-biphenyl]-3-yl}-1-phosphonoethyl)phosphonic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 434.3161,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 434.068426018,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as p-terphenyls. These are terphenyls with a structure containing the 1,4-diphenylbenzene skeleton.",
+        "link": "https://go.drugbank.com/drugs/DB07409",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H][C@]12CN(CCN3NC4=C(C=CC=C4C3=O)C3=NC4=C(NC3=O)C=CC=C4O1)[C@]([H])(C)C2",
+        "iupac_name": "(13R,15S)-13-methyl-16-oxa-8,9,12,22,24-pentaazahexacyclo[15.6.2.1^{6,9}.1^{12,15}.0^{2,7}.0^{21,25}]heptacosa-1(24),2(7),3,5,17,19,21(25)-heptaene-23,27-dione",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 403.4338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 403.164439563,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as quinoxalines. These are compounds containing a quinoxaline moiety, a bicyclic heterocycle made up of a benzene ring fused to a pyrazine ring.",
+        "link": "https://go.drugbank.com/drugs/DB06888",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H][C@@]1(C)CNC2=C(SC3=C2C2=C(C=C3)N=C(C=C2)C2=CN=C(C)C=C2)C(=O)N1",
+        "iupac_name": "(15R)-15-methyl-5-(6-methylpyridin-3-yl)-11-thia-6,14,17-triazatetracyclo[8.8.0.0^{2,7}.0^{12,18}]octadeca-1(10),2(7),3,5,8,12(18)-hexaen-13-one",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 374.459,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 374.120131908,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bipyridines and oligopyridines. These are organic compounds containing two pyridine rings linked to each other.",
+        "link": "https://go.drugbank.com/drugs/DB07430",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C",
+        "iupac_name": "1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 258.358,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 258.183109317,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB14136",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(-)-menthol (+/-)-1-propylene glycol carbonate",
+            "2-hydroxypropyl ((1R",
+            "2S",
+            "5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate",
+            "Carbonic acid",
+            "2-hydroxypropyl (1R",
+            "2S",
+            "5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester",
+            "Fema no. 3806",
+            "1-propylene glycol carbonate"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "ON1CCCC(C1=O)P(O)(O)=O",
+        "iupac_name": "(1-hydroxy-2-oxopiperidin-3-yl)phosphonic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 195.111,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 195.029659424,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB17108",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Phosphonic acid",
+            "p-(1-hydroxy-2-oxo-3-piperidinyl)-"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "CCCCCCC(O)(P(O)(O)=O)P(O)(O)=O",
+        "iupac_name": "(1-hydroxy-1-phosphonoheptyl)phosphonic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 276.1611,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 276.052775954,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bisphosphonates. These are organic compounds containing two phosphonate groups linked together through a carbon atoms.",
+        "link": "https://go.drugbank.com/drugs/DB06830",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1O",
+        "iupac_name": "(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexan-1-ol",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 156.269,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 156.151415264,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as menthane monoterpenoids. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone. P-menthane consists of the cyclohexane ring with a methyl group and a (2-methyl)-propyl group at the 1 and 4 ring position, respectively. The o- and m- menthanes are much rarer, and presumably arise by alkyl migration of p-menthanes.",
+        "link": "https://go.drugbank.com/drugs/DB11344",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-(1S",
+            "2R",
+            "5S)-menthol",
+            "(+)-(1S",
+            "3S",
+            "4R)-menthol",
+            "(1S",
+            "2R",
+            "5S)-(+)-menthol",
+            "(1S",
+            "2R",
+            "5S)-menthol",
+            "D-menthol"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1",
+        "iupac_name": "(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 226.2705,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 226.099379692,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as biphenyls and derivatives. These are organic compounds containing to benzene rings linked together by a C-C bond.",
+        "link": "https://go.drugbank.com/drugs/DB02047",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(2S)-2-(4-Biphenylyl)propanoic acid",
+            "2-(1",
+            "1'-biphenyl-4-yl)propanoic acid"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "C[C@H](O)CBr",
+        "iupac_name": "(2S)-1-bromopropan-2-ol",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 138.991,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 137.968027493,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as bromohydrins. These are alcohols substituted by a bromine atom at a saturated carbon atom otherwise bearing only hydrogen or hydrocarbyl groups.",
+        "link": "https://go.drugbank.com/drugs/DB03335",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(S)-(+)-1-Bromo-2-propanol"
+        ],
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    },
+    {
+        "smiles": "CC\\C=C/C\\C=C/C[C@@H](O)\\C=C\\C=C/C\\C=C/CCCC(O)=O",
+        "iupac_name": "(5Z,8Z,10E,12R,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 318.457,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 318.219494826,
+                "units": "Da"
+            }
+        ],
+        "link": "https://go.drugbank.com/drugs/DB15571",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "is_stub": true
+    },
+    {
+        "smiles": "[H][C@]1(N(C(C)=O)C2=CC=CC(O)=C2NC2=C1C(=O)CC(C)(C)C2)C1=C(Cl)C=C(Cl)C=C1",
+        "iupac_name": "(10R)-9-acetyl-10-(2,4-dichlorophenyl)-4-hydroxy-14,14-dimethyl-2,9-diazatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3,5,7-tetraen-12-one",
+        "inchi": {},
+        "weight": [
+            {
+                "type": "average",
+                "weight": 445.338,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 444.100747994,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as benzodiazepines. These are organic compounds containing a benzene ring fused to either isomers of diazepine(unsaturated seven-member heterocycle with two nitrogen atoms replacing two carbon atoms).",
+        "link": "https://go.drugbank.com/drugs/DB08747",
+        "type": "Small Molecule",
+        "indication": "Not AvailableReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how"
+    }
+]

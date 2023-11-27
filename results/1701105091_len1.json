@@ -1,0 +1,37 @@
+[
+    {
+        "smiles": "CC1(C)N=C(N)N=C(N)N1OCCCOC1=CC(Cl)=C(Cl)C=C1Cl",
+        "id": "DB08734",
+        "molecule": "6,6-DIMETHYL-1-[3-(2,4,5-TRICHLOROPHENOXY)PROPOXY]-1,6-DIHYDRO-1,3,5-TRIAZINE-2,4-DIAMINE",
+        "iupac_name": "6,6-dimethyl-1-[3-(2,4,5-trichlorophenoxy)propoxy]-1,6-dihydro-1,3,5-triazine-2,4-diamine",
+        "inchi": {
+            "hash": "MJZJYWCQPMNPRM-UHFFFAOYSA-N",
+            "id": "InChI=1S/C14H18Cl3N5O2/c1-14(2)21-12(18)20-13(19)22(14)24-5-3-4-23-11-7-9(16)8(15)6-10(11)17/h6-7H,3-5H2,1-2H3,(H4,18,19,20,21)"
+        },
+        "weight": [
+            {
+                "type": "average",
+                "weight": 394.684,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 393.052607966,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as phenol ethers. These are aromatic compounds containing an ether group substituted with a benzene ring.",
+        "link": "https://go.drugbank.com/drugs/DB08734/",
+        "type": "Small Molecule",
+        "moa": [
+            {
+                "action": "Not Available",
+                "organism": "Humans",
+                "target": "UThymidylate synthase"
+            }
+        ],
+        "drug_interactions_raw": "This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. Not Available",
+        "drug_interactions_link": "https://go.drugbank.com/drugs/DB08734/drug_interactions.json?start=0\u0026length=100\u0026_=1701105089",
+        "drug_interactions_page": "{\"draw\":1,\"recordsTotal\":0,\"recordsFiltered\":0,\"data\":[]}"
+    }
+]

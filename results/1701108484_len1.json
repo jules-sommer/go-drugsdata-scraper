@@ -1,0 +1,618 @@
+[
+    {
+        "smiles": "CN[C@@H](C)CC1=CC=CC=C1",
+        "id": "DB01577",
+        "molecule": "Metamfetamine",
+        "cas": "537-46-2",
+        "iupac_name": "methyl[(2S)-1-phenylpropan-2-yl]amine",
+        "background": "Metamfetamine (methamphetamine) is a psychostimulant and sympathomimetic drug, and a member of the amphetamine group of sympathomimetic amines. Methamphetamine can induce effects such as euphoria, increased alertness and energy, and enhanced self-esteem. It is a scheduled drug in most countries due to its high potential for addiction and abuse. \nThe FDA withdrew its approval for the use of all parenteral drug products containing methamphetamine hydrochloride, a metamfetamine salt.6\n",
+        "inchi": {
+            "hash": "MYWUZJCMWCOHBA-VIFPVBQESA-N",
+            "id": "InChI=1S/C10H15N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3/t9-/m0/s1"
+        },
+        "summary": "Metamfetamine is a sympathomimetic agent used in the treatment of attention deficit hyperactivity disorder (ADHD) and exogenous obesity.",
+        "weight": [
+            {
+                "type": "average",
+                "weight": 149.2328,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 149.120449485,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as amphetamines and derivatives. These are organic compounds containing or derived from 1-phenylpropan-2-amine.",
+        "link": "https://go.drugbank.com/drugs/DB01577/",
+        "type": "Small Molecule",
+        "synonyms": [
+            "(+)-(S)-N-α-dimethylphenethylamine",
+            "(S)-N,α-dimethylbenzeneethanamine",
+            "(αS)-N,α-dimethylbenzeneethanamine",
+            "d-1-phenyl-2-methylaminopropane",
+            "d-deoxyephedrine",
+            "d-desoxyephedrine",
+            "d-N-methylamphetamine",
+            "d-phenylisopropylmethylamine",
+            "Dextromethamphetamine",
+            "Métamfétamine",
+            "Metamfetamine",
+            "Metamfetaminum",
+            "Metanfetamina",
+            "Methamphetamine",
+            "Methamphetaminum",
+            "methyl-β-phenylisopropylamine"
+        ],
+        "indication": "For the treatment of Attention Deficit Disorder with Hyperactivity (ADHD) and exogenous obesity.\n",
+        "pharmacodynamics": "Methamphetamine is a potent central nervous system stimulant which affects neurochemical mechanisms responsible for regulating heart rate, body temperature, blood pressure, appetite, attention, mood and responses associated with alertness or alarm conditions. The acute effects of the drug closely resemble the physiological and psychological effects of an epinephrine-provoked fight-or-flight response, including increased heart rate and blood pressure, vasoconstriction (constriction of the arterial walls), bronchodilation, and hyperglycemia (increased blood sugar). Users experience an increase in focus, increased mental alertness, and the elimination of fatigue, as well as a decrease in appetite. \n",
+        "moa": [
+            {
+                "action": "negative modulator",
+                "organism": "Humans",
+                "target": "ASodium-dependent dopamine transporter"
+            },
+            {
+                "action": "negative modulator",
+                "organism": "Humans",
+                "target": "ASodium-dependent serotonin transporter"
+            },
+            {
+                "action": "negative modulator",
+                "organism": "Humans",
+                "target": "ASodium-dependent noradrenaline transporter"
+            },
+            {
+                "action": "inhibitor",
+                "organism": "Humans",
+                "target": "ASynaptic vesicular amine transporter"
+            },
+            {
+                "action": "inhibitor",
+                "organism": "Humans",
+                "target": "AChromaffin granule amine transporter"
+            },
+            {
+                "action": "agonist",
+                "organism": "Humans",
+                "target": "ATrace amine-associated receptor 1"
+            },
+            {
+                "action": "agonist",
+                "organism": "Humans",
+                "target": "AAlpha-2A adrenergic receptor"
+            },
+            {
+                "action": "agonist",
+                "organism": "Humans",
+                "target": "AAlpha-2B adrenergic receptor"
+            },
+            {
+                "action": "agonist",
+                "organism": "Humans",
+                "target": "AAlpha-2C adrenergic receptor"
+            },
+            {
+                "action": "inhibitor",
+                "organism": "Humans",
+                "target": "AAmine oxidase [flavin-containing] A"
+            },
+            {
+                "action": "inhibitor",
+                "organism": "Humans",
+                "target": "AAmine oxidase [flavin-containing] B"
+            }
+        ],
+        "drug_interactions": [
+            [
+                "DB01562",
+                "1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine",
+                "The metabolism of Metamfetamine can be decreased when combined with 1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine."
+            ],
+            [
+                "DB04581",
+                "1-benzylimidazole",
+                "The therapeutic efficacy of 1-benzylimidazole can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB01467",
+                "2,5-Dimethoxy-4-ethylamphetamine",
+                "The risk or severity of serotonin syndrome can be increased when 2,5-Dimethoxy-4-ethylamphetamine is combined with Metamfetamine."
+            ],
+            [
+                "DB13940",
+                "2,5-Dimethoxy-4-ethylthioamphetamine",
+                "The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with 2,5-Dimethoxy-4-ethylthioamphetamine."
+            ],
+            [
+                "DB07954",
+                "3-isobutyl-1-methyl-7H-xanthine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3-isobutyl-1-methyl-7H-xanthine."
+            ],
+            [
+                "DB12629",
+                "3,5-diiodothyropropionic acid",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3,5-diiodothyropropionic acid."
+            ],
+            [
+                "DB03374",
+                "3,5-Diiodotyrosine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3,5-Diiodotyrosine."
+            ],
+            [
+                "DB01484",
+                "4-Bromo-2,5-dimethoxyamphetamine",
+                "The risk or severity of serotonin syndrome can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Metamfetamine."
+            ],
+            [
+                "DB01472",
+                "4-Methoxyamphetamine",
+                "The risk or severity of hypertension can be increased when 4-Methoxyamphetamine is combined with Metamfetamine."
+            ],
+            [
+                "DB14010",
+                "5-methoxy-N,N-dimethyltryptamine",
+                "The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with 5-methoxy-N,N-dimethyltryptamine."
+            ],
+            [
+                "DB11919",
+                "6-O-benzylguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 6-O-benzylguanine."
+            ],
+            [
+                "DB02245",
+                "7-Deazaguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 7-Deazaguanine."
+            ],
+            [
+                "DB08550",
+                "7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",
+                "7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline may increase the hypertensive activities of Metamfetamine."
+            ],
+            [
+                "DB01978",
+                "7,9-Dimethylguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 7,9-Dimethylguanine."
+            ],
+            [
+                "DB01667",
+                "8-azaguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 8-azaguanine."
+            ],
+            [
+                "DB14132",
+                "8-chlorotheophylline",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 8-chlorotheophylline."
+            ],
+            [
+                "DB04356",
+                "9-Deazaguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 9-Deazaguanine."
+            ],
+            [
+                "DB02489",
+                "9-Methylguanine",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with 9-Methylguanine."
+            ],
+            [
+                "DB01048",
+                "Abacavir",
+                "Abacavir may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB01281",
+                "Abatacept",
+                "The metabolism of Metamfetamine can be increased when combined with Abatacept."
+            ],
+            [
+                "DB12100",
+                "Abediterol",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Abediterol."
+            ],
+            [
+                "DB05812",
+                "Abiraterone",
+                "The metabolism of Metamfetamine can be decreased when combined with Abiraterone."
+            ],
+            [
+                "DB15192",
+                "ABT-288",
+                "Metamfetamine may decrease the sedative activities of ABT-288."
+            ],
+            [
+                "DB01193",
+                "Acebutolol",
+                "The therapeutic efficacy of Acebutolol can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB06736",
+                "Aceclofenac",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Aceclofenac."
+            ],
+            [
+                "DB13573",
+                "Acefylline",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with Acefylline."
+            ],
+            [
+                "DB13783",
+                "Acemetacin",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Acemetacin."
+            ],
+            [
+                "DB01614",
+                "Acepromazine",
+                "The therapeutic efficacy of Acepromazine can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB01615",
+                "Aceprometazine",
+                "Metamfetamine may decrease the sedative activities of Aceprometazine."
+            ],
+            [
+                "DB00316",
+                "Acetaminophen",
+                "Acetaminophen may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00819",
+                "Acetazolamide",
+                "Acetazolamide may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB01063",
+                "Acetophenazine",
+                "Acetophenazine may decrease the stimulatory activities of Metamfetamine."
+            ],
+            [
+                "DB00945",
+                "Acetylsalicylic acid",
+                "The risk or severity of hypertension can be increased when Acetylsalicylic acid is combined with Metamfetamine."
+            ],
+            [
+                "DB08897",
+                "Aclidinium",
+                "Metamfetamine may decrease the excretion rate of Aclidinium which could result in a higher serum level."
+            ],
+            [
+                "DB09488",
+                "Acrivastine",
+                "Metamfetamine may decrease the sedative activities of Acrivastine."
+            ],
+            [
+                "DB00787",
+                "Acyclovir",
+                "Acyclovir may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB15568",
+                "Adagrasib",
+                "The metabolism of Metamfetamine can be decreased when combined with Adagrasib."
+            ],
+            [
+                "DB00051",
+                "Adalimumab",
+                "The metabolism of Metamfetamine can be increased when combined with Adalimumab."
+            ],
+            [
+                "DB13868",
+                "Adefovir",
+                "Adefovir may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00718",
+                "Adefovir dipivoxil",
+                "Adefovir dipivoxil may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00640",
+                "Adenosine",
+                "The risk or severity of Tachycardia can be increased when Adenosine is combined with Metamfetamine."
+            ],
+            [
+                "DB08925",
+                "Adrafinil",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Adrafinil."
+            ],
+            [
+                "DB04956",
+                "Afelimomab",
+                "The metabolism of Metamfetamine can be increased when combined with Afelimomab."
+            ],
+            [
+                "DB13233",
+                "Alaproclate",
+                "The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with Alaproclate."
+            ],
+            [
+                "DB13884",
+                "Albutrepenonacog alfa",
+                "Metamfetamine may decrease the excretion rate of Albutrepenonacog alfa which could result in a higher serum level."
+            ],
+            [
+                "DB13167",
+                "Alclofenac",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Alclofenac."
+            ],
+            [
+                "DB00041",
+                "Aldesleukin",
+                "Aldesleukin may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00802",
+                "Alfentanil",
+                "Metamfetamine may increase the analgesic activities of Alfentanil."
+            ],
+            [
+                "DB00346",
+                "Alfuzosin",
+                "The therapeutic efficacy of Alfuzosin can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB01246",
+                "Alimemazine",
+                "Metamfetamine may decrease the sedative activities of Alimemazine."
+            ],
+            [
+                "DB09026",
+                "Aliskiren",
+                "Metamfetamine may decrease the antihypertensive activities of Aliskiren."
+            ],
+            [
+                "DB00437",
+                "Allopurinol",
+                "Allopurinol may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB01431",
+                "Allylestrenol",
+                "Allylestrenol may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB13595",
+                "Almasilate",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Almasilate."
+            ],
+            [
+                "DB13314",
+                "Alminoprofen",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Alminoprofen."
+            ],
+            [
+                "DB00918",
+                "Almotriptan",
+                "The metabolism of Almotriptan can be decreased when combined with Metamfetamine."
+            ],
+            [
+                "DB06203",
+                "Alogliptin",
+                "Metamfetamine may decrease the excretion rate of Alogliptin which could result in a higher serum level."
+            ],
+            [
+                "DB13650",
+                "Aloglutamol",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Aloglutamol."
+            ],
+            [
+                "DB01555",
+                "Alphacetylmethadol",
+                "Metamfetamine may increase the analgesic activities of Alphacetylmethadol."
+            ],
+            [
+                "DB13160",
+                "Alphaprodine",
+                "Metamfetamine may increase the analgesic activities of Alphaprodine."
+            ],
+            [
+                "DB00404",
+                "Alprazolam",
+                "Alprazolam may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00866",
+                "Alprenolol",
+                "The therapeutic efficacy of Alprenolol can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB13280",
+                "Aluminium acetoacetate",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Aluminium acetoacetate."
+            ],
+            [
+                "DB13626",
+                "Aluminium glycinate",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Aluminium glycinate."
+            ],
+            [
+                "DB14517",
+                "Aluminium phosphate",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Aluminium phosphate."
+            ],
+            [
+                "DB06723",
+                "Aluminum hydroxide",
+                "The serum concentration of Metamfetamine can be increased when it is combined with Aluminum hydroxide."
+            ],
+            [
+                "DB00915",
+                "Amantadine",
+                "The risk or severity of serotonin syndrome can be increased when Amantadine is combined with Metamfetamine."
+            ],
+            [
+                "DB06403",
+                "Ambrisentan",
+                "Metamfetamine may decrease the antihypertensive activities of Ambrisentan."
+            ],
+            [
+                "DB05395",
+                "Amibegron",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Amibegron."
+            ],
+            [
+                "DB00479",
+                "Amikacin",
+                "Metamfetamine may decrease the excretion rate of Amikacin which could result in a higher serum level."
+            ],
+            [
+                "DB00594",
+                "Amiloride",
+                "Amiloride may increase the excretion rate of Metamfetamine which could result in a lower serum level and potentially a reduction in efficacy."
+            ],
+            [
+                "DB04836",
+                "Amineptine",
+                "The therapeutic efficacy of Amineptine can be increased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB01424",
+                "Aminophenazone",
+                "The risk or severity of hypertension can be increased when Aminophenazone is combined with Metamfetamine."
+            ],
+            [
+                "DB01223",
+                "Aminophylline",
+                "The risk or severity of adverse effects can be increased when Metamfetamine is combined with Aminophylline."
+            ],
+            [
+                "DB01118",
+                "Amiodarone",
+                "The metabolism of Metamfetamine can be decreased when combined with Amiodarone."
+            ],
+            [
+                "DB06288",
+                "Amisulpride",
+                "Amisulpride may decrease the stimulatory activities of Metamfetamine."
+            ],
+            [
+                "DB11373",
+                "Amitraz",
+                "The risk or severity of hypertension can be increased when Metamfetamine is combined with Amitraz."
+            ],
+            [
+                "DB00321",
+                "Amitriptyline",
+                "Metamfetamine may decrease the sedative activities of Amitriptyline."
+            ],
+            [
+                "DB13114",
+                "Amitriptylinoxide",
+                "The therapeutic efficacy of Amitriptylinoxide can be increased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB00381",
+                "Amlodipine",
+                "Metamfetamine may decrease the antihypertensive activities of Amlodipine."
+            ],
+            [
+                "DB06767",
+                "Ammonium chloride",
+                "The serum concentration of Metamfetamine can be decreased when it is combined with Ammonium chloride."
+            ],
+            [
+                "DB00543",
+                "Amoxapine",
+                "Metamfetamine may decrease the sedative activities of Amoxapine."
+            ],
+            [
+                "DB01060",
+                "Amoxicillin",
+                "Amoxicillin may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB08927",
+                "Amperozide",
+                "Amperozide may decrease the stimulatory activities of Metamfetamine."
+            ],
+            [
+                "DB00182",
+                "Amphetamine",
+                "The risk or severity of serotonin syndrome can be increased when Amphetamine is combined with Metamfetamine."
+            ],
+            [
+                "DB00681",
+                "Amphotericin B",
+                "Amphotericin B may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00415",
+                "Ampicillin",
+                "Ampicillin may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00701",
+                "Amprenavir",
+                "The metabolism of Metamfetamine can be decreased when combined with Amprenavir."
+            ],
+            [
+                "DB01427",
+                "Amrinone",
+                "Amrinone may decrease the excretion rate of Metamfetamine which could result in a higher serum level."
+            ],
+            [
+                "DB00261",
+                "Anagrelide",
+                "The risk or severity of Tachycardia can be increased when Anagrelide is combined with Metamfetamine."
+            ],
+            [
+                "DB00026",
+                "Anakinra",
+                "The metabolism of Metamfetamine can be increased when combined with Anakinra."
+            ],
+            [
+                "DB09103",
+                "Ancestim",
+                "Metamfetamine may decrease the excretion rate of Ancestim which could result in a higher serum level."
+            ],
+            [
+                "DB11720",
+                "Angiotensin 1-7",
+                "Metamfetamine may decrease the antihypertensive activities of Angiotensin 1-7."
+            ],
+            [
+                "DB11785",
+                "Anisodamine",
+                "The therapeutic efficacy of Anisodamine can be decreased when used in combination with Metamfetamine."
+            ],
+            [
+                "DB00517",
+                "Anisotropine methylbromide",
+                "The risk or severity of Tachycardia can be increased when Anisotropine methylbromide is combined with Metamfetamine."
+            ],
+            [
+                "DB08799",
+                "Antazoline",
+                "Metamfetamine may decrease the sedative activities of Antazoline."
+            ],
+            [
+                "DB09329",
+                "Antihemophilic factor (recombinant), PEGylated",
+                "Metamfetamine may decrease the excretion rate of Antihemophilic factor (recombinant), PEGylated which could result in a higher serum level."
+            ],
+            [
+                "DB01435",
+                "Antipyrine",
+                "The risk or severity of hypertension can be increased when Antipyrine is combined with Metamfetamine."
+            ],
+            [
+                "DB11598",
+                "Antithrombin III human",
+                "Metamfetamine may decrease the excretion rate of Antithrombin III human which could result in a higher serum level."
+            ],
+            [
+                "DB01419",
+                "Antrafenine",
+                "The risk or severity of hypertension can be increased when Antrafenine is combined with Metamfetamine."
+            ]
+        ],
+        "drug_interactions_page": [
+            "",
+            "",
+            "{\"draw\":1,\"recordsTotal\":1603,\"recordsFiltered\":1603,\"data\":[[\"\\u003ca href=\\\"/drugs/DB01562\\\"\\u003e1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be decreased when combined with 1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine.\"],[\"\\u003ca href=\\\"/drugs/DB04581\\\"\\u003e1-benzylimidazole\\u003c/a\\u003e\",\"The therapeutic efficacy of 1-benzylimidazole can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01467\\\"\\u003e2,5-Dimethoxy-4-ethylamphetamine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when 2,5-Dimethoxy-4-ethylamphetamine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB13940\\\"\\u003e2,5-Dimethoxy-4-ethylthioamphetamine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with 2,5-Dimethoxy-4-ethylthioamphetamine.\"],[\"\\u003ca href=\\\"/drugs/DB07954\\\"\\u003e3-isobutyl-1-methyl-7H-xanthine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3-isobutyl-1-methyl-7H-xanthine.\"],[\"\\u003ca href=\\\"/drugs/DB12629\\\"\\u003e3,5-diiodothyropropionic acid\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3,5-diiodothyropropionic acid.\"],[\"\\u003ca href=\\\"/drugs/DB03374\\\"\\u003e3,5-Diiodotyrosine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 3,5-Diiodotyrosine.\"],[\"\\u003ca href=\\\"/drugs/DB01484\\\"\\u003e4-Bromo-2,5-dimethoxyamphetamine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01472\\\"\\u003e4-Methoxyamphetamine\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when 4-Methoxyamphetamine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB14010\\\"\\u003e5-methoxy-N,N-dimethyltryptamine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with 5-methoxy-N,N-dimethyltryptamine.\"],[\"\\u003ca href=\\\"/drugs/DB11919\\\"\\u003e6-O-benzylguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 6-O-benzylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB02245\\\"\\u003e7-Deazaguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 7-Deazaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB08550\\\"\\u003e7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline\\u003c/a\\u003e\",\"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline may increase the hypertensive activities of Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01978\\\"\\u003e7,9-Dimethylguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 7,9-Dimethylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB01667\\\"\\u003e8-azaguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 8-azaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB14132\\\"\\u003e8-chlorotheophylline\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 8-chlorotheophylline.\"],[\"\\u003ca href=\\\"/drugs/DB04356\\\"\\u003e9-Deazaguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 9-Deazaguanine.\"],[\"\\u003ca href=\\\"/drugs/DB02489\\\"\\u003e9-Methylguanine\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with 9-Methylguanine.\"],[\"\\u003ca href=\\\"/drugs/DB01048\\\"\\u003eAbacavir\\u003c/a\\u003e\",\"Abacavir may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB01281\\\"\\u003eAbatacept\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be increased when combined with Abatacept.\"],[\"\\u003ca href=\\\"/drugs/DB12100\\\"\\u003eAbediterol\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Abediterol.\"],[\"\\u003ca href=\\\"/drugs/DB05812\\\"\\u003eAbiraterone\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be decreased when combined with Abiraterone.\"],[\"\\u003ca href=\\\"/drugs/DB15192\\\"\\u003eABT-288\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of ABT-288.\"],[\"\\u003ca href=\\\"/drugs/DB01193\\\"\\u003eAcebutolol\\u003c/a\\u003e\",\"The therapeutic efficacy of Acebutolol can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB06736\\\"\\u003eAceclofenac\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Aceclofenac.\"],[\"\\u003ca href=\\\"/drugs/DB13573\\\"\\u003eAcefylline\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with Acefylline.\"],[\"\\u003ca href=\\\"/drugs/DB13783\\\"\\u003eAcemetacin\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Acemetacin.\"],[\"\\u003ca href=\\\"/drugs/DB01614\\\"\\u003eAcepromazine\\u003c/a\\u003e\",\"The therapeutic efficacy of Acepromazine can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01615\\\"\\u003eAceprometazine\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Aceprometazine.\"],[\"\\u003ca href=\\\"/drugs/DB00316\\\"\\u003eAcetaminophen\\u003c/a\\u003e\",\"Acetaminophen may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00819\\\"\\u003eAcetazolamide\\u003c/a\\u003e\",\"Acetazolamide may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB01063\\\"\\u003eAcetophenazine\\u003c/a\\u003e\",\"Acetophenazine may decrease the stimulatory activities of Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00945\\\"\\u003eAcetylsalicylic acid\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Acetylsalicylic acid is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB08897\\\"\\u003eAclidinium\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Aclidinium which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB09488\\\"\\u003eAcrivastine\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Acrivastine.\"],[\"\\u003ca href=\\\"/drugs/DB00787\\\"\\u003eAcyclovir\\u003c/a\\u003e\",\"Acyclovir may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB15568\\\"\\u003eAdagrasib\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be decreased when combined with Adagrasib.\"],[\"\\u003ca href=\\\"/drugs/DB00051\\\"\\u003eAdalimumab\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be increased when combined with Adalimumab.\"],[\"\\u003ca href=\\\"/drugs/DB13868\\\"\\u003eAdefovir\\u003c/a\\u003e\",\"Adefovir may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00718\\\"\\u003eAdefovir dipivoxil\\u003c/a\\u003e\",\"Adefovir dipivoxil may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00640\\\"\\u003eAdenosine\\u003c/a\\u003e\",\"The risk or severity of Tachycardia can be increased when Adenosine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB08925\\\"\\u003eAdrafinil\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Adrafinil.\"],[\"\\u003ca href=\\\"/drugs/DB04956\\\"\\u003eAfelimomab\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be increased when combined with Afelimomab.\"],[\"\\u003ca href=\\\"/drugs/DB13233\\\"\\u003eAlaproclate\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when Metamfetamine is combined with Alaproclate.\"],[\"\\u003ca href=\\\"/drugs/DB13884\\\"\\u003eAlbutrepenonacog alfa\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Albutrepenonacog alfa which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB13167\\\"\\u003eAlclofenac\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Alclofenac.\"],[\"\\u003ca href=\\\"/drugs/DB00041\\\"\\u003eAldesleukin\\u003c/a\\u003e\",\"Aldesleukin may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00802\\\"\\u003eAlfentanil\\u003c/a\\u003e\",\"Metamfetamine may increase the analgesic activities of Alfentanil.\"],[\"\\u003ca href=\\\"/drugs/DB00346\\\"\\u003eAlfuzosin\\u003c/a\\u003e\",\"The therapeutic efficacy of Alfuzosin can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01246\\\"\\u003eAlimemazine\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Alimemazine.\"],[\"\\u003ca href=\\\"/drugs/DB09026\\\"\\u003eAliskiren\\u003c/a\\u003e\",\"Metamfetamine may decrease the antihypertensive activities of Aliskiren.\"],[\"\\u003ca href=\\\"/drugs/DB00437\\\"\\u003eAllopurinol\\u003c/a\\u003e\",\"Allopurinol may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB01431\\\"\\u003eAllylestrenol\\u003c/a\\u003e\",\"Allylestrenol may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB13595\\\"\\u003eAlmasilate\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Almasilate.\"],[\"\\u003ca href=\\\"/drugs/DB13314\\\"\\u003eAlminoprofen\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Alminoprofen.\"],[\"\\u003ca href=\\\"/drugs/DB00918\\\"\\u003eAlmotriptan\\u003c/a\\u003e\",\"The metabolism of Almotriptan can be decreased when combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB06203\\\"\\u003eAlogliptin\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Alogliptin which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB13650\\\"\\u003eAloglutamol\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Aloglutamol.\"],[\"\\u003ca href=\\\"/drugs/DB01555\\\"\\u003eAlphacetylmethadol\\u003c/a\\u003e\",\"Metamfetamine may increase the analgesic activities of Alphacetylmethadol.\"],[\"\\u003ca href=\\\"/drugs/DB13160\\\"\\u003eAlphaprodine\\u003c/a\\u003e\",\"Metamfetamine may increase the analgesic activities of Alphaprodine.\"],[\"\\u003ca href=\\\"/drugs/DB00404\\\"\\u003eAlprazolam\\u003c/a\\u003e\",\"Alprazolam may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00866\\\"\\u003eAlprenolol\\u003c/a\\u003e\",\"The therapeutic efficacy of Alprenolol can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB13280\\\"\\u003eAluminium acetoacetate\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Aluminium acetoacetate.\"],[\"\\u003ca href=\\\"/drugs/DB13626\\\"\\u003eAluminium glycinate\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Aluminium glycinate.\"],[\"\\u003ca href=\\\"/drugs/DB14517\\\"\\u003eAluminium phosphate\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Aluminium phosphate.\"],[\"\\u003ca href=\\\"/drugs/DB06723\\\"\\u003eAluminum hydroxide\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be increased when it is combined with Aluminum hydroxide.\"],[\"\\u003ca href=\\\"/drugs/DB00915\\\"\\u003eAmantadine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when Amantadine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB06403\\\"\\u003eAmbrisentan\\u003c/a\\u003e\",\"Metamfetamine may decrease the antihypertensive activities of Ambrisentan.\"],[\"\\u003ca href=\\\"/drugs/DB05395\\\"\\u003eAmibegron\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Amibegron.\"],[\"\\u003ca href=\\\"/drugs/DB00479\\\"\\u003eAmikacin\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Amikacin which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00594\\\"\\u003eAmiloride\\u003c/a\\u003e\",\"Amiloride may increase the excretion rate of Metamfetamine which could result in a lower serum level and potentially a reduction in efficacy.\"],[\"\\u003ca href=\\\"/drugs/DB04836\\\"\\u003eAmineptine\\u003c/a\\u003e\",\"The therapeutic efficacy of Amineptine can be increased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01424\\\"\\u003eAminophenazone\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Aminophenazone is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB01223\\\"\\u003eAminophylline\\u003c/a\\u003e\",\"The risk or severity of adverse effects can be increased when Metamfetamine is combined with Aminophylline.\"],[\"\\u003ca href=\\\"/drugs/DB01118\\\"\\u003eAmiodarone\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be decreased when combined with Amiodarone.\"],[\"\\u003ca href=\\\"/drugs/DB06288\\\"\\u003eAmisulpride\\u003c/a\\u003e\",\"Amisulpride may decrease the stimulatory activities of Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB11373\\\"\\u003eAmitraz\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Metamfetamine is combined with Amitraz.\"],[\"\\u003ca href=\\\"/drugs/DB00321\\\"\\u003eAmitriptyline\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Amitriptyline.\"],[\"\\u003ca href=\\\"/drugs/DB13114\\\"\\u003eAmitriptylinoxide\\u003c/a\\u003e\",\"The therapeutic efficacy of Amitriptylinoxide can be increased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00381\\\"\\u003eAmlodipine\\u003c/a\\u003e\",\"Metamfetamine may decrease the antihypertensive activities of Amlodipine.\"],[\"\\u003ca href=\\\"/drugs/DB06767\\\"\\u003eAmmonium chloride\\u003c/a\\u003e\",\"The serum concentration of Metamfetamine can be decreased when it is combined with Ammonium chloride.\"],[\"\\u003ca href=\\\"/drugs/DB00543\\\"\\u003eAmoxapine\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Amoxapine.\"],[\"\\u003ca href=\\\"/drugs/DB01060\\\"\\u003eAmoxicillin\\u003c/a\\u003e\",\"Amoxicillin may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB08927\\\"\\u003eAmperozide\\u003c/a\\u003e\",\"Amperozide may decrease the stimulatory activities of Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00182\\\"\\u003eAmphetamine\\u003c/a\\u003e\",\"The risk or severity of serotonin syndrome can be increased when Amphetamine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00681\\\"\\u003eAmphotericin B\\u003c/a\\u003e\",\"Amphotericin B may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00415\\\"\\u003eAmpicillin\\u003c/a\\u003e\",\"Ampicillin may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00701\\\"\\u003eAmprenavir\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be decreased when combined with Amprenavir.\"],[\"\\u003ca href=\\\"/drugs/DB01427\\\"\\u003eAmrinone\\u003c/a\\u003e\",\"Amrinone may decrease the excretion rate of Metamfetamine which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB00261\\\"\\u003eAnagrelide\\u003c/a\\u003e\",\"The risk or severity of Tachycardia can be increased when Anagrelide is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00026\\\"\\u003eAnakinra\\u003c/a\\u003e\",\"The metabolism of Metamfetamine can be increased when combined with Anakinra.\"],[\"\\u003ca href=\\\"/drugs/DB09103\\\"\\u003eAncestim\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Ancestim which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB11720\\\"\\u003eAngiotensin 1-7\\u003c/a\\u003e\",\"Metamfetamine may decrease the antihypertensive activities of Angiotensin 1-7.\"],[\"\\u003ca href=\\\"/drugs/DB11785\\\"\\u003eAnisodamine\\u003c/a\\u003e\",\"The therapeutic efficacy of Anisodamine can be decreased when used in combination with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB00517\\\"\\u003eAnisotropine methylbromide\\u003c/a\\u003e\",\"The risk or severity of Tachycardia can be increased when Anisotropine methylbromide is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB08799\\\"\\u003eAntazoline\\u003c/a\\u003e\",\"Metamfetamine may decrease the sedative activities of Antazoline.\"],[\"\\u003ca href=\\\"/drugs/DB09329\\\"\\u003eAntihemophilic factor (recombinant), PEGylated\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Antihemophilic factor (recombinant), PEGylated which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB01435\\\"\\u003eAntipyrine\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Antipyrine is combined with Metamfetamine.\"],[\"\\u003ca href=\\\"/drugs/DB11598\\\"\\u003eAntithrombin III human\\u003c/a\\u003e\",\"Metamfetamine may decrease the excretion rate of Antithrombin III human which could result in a higher serum level.\"],[\"\\u003ca href=\\\"/drugs/DB01419\\\"\\u003eAntrafenine\\u003c/a\\u003e\",\"The risk or severity of hypertension can be increased when Antrafenine is combined with Metamfetamine.\"]]}"
+        ],
+        "half_life": "The biological half-life has been reported in the range of 4 to 5 hours.\n",
+        "route_of_elimination": "Excretion occurs primarily in the urine, the rate of which is dependent on urine pH. Between 30-54% of an oral dose is excreted in urine as unchanged methamphetamine and 10-23% as unchanged amphetamine. Following an intravenous dose, 45% is excreted as unchanged parent drug and 7% amphetamine.\n",
+        "toxicity": "Manifestations of acute overdosage with methamphetamine include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia, and rhabdomyolysis. Fatigue and depression usually follow the central stimulation. Cardiovascular effects include arrhythmias, hypertension or hypotension, and circulatory collapse. Gastrointestinal symptoms include nausea, vomiting, diarrhea, and abdominal cramps. Fatal poisoning usually terminates in convulsions and coma.\n",
+        "absorption": "Methamphetamine is rapidly absorbed from the gastrointestinal tract with peak methamphetamine concentrations occurring in 3.13 to 6.3 hours post ingestion. Moreover, when administered intranasally or as an inhalation, methamphetamine also demonstrates a high degree of absorption. It is distributed to most parts of the body. Because methamphetamine has a high lipophilicity it is distributed across the blood brain barrier and crosses the placenta.\n"
+    }
+]

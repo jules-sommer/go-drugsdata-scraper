@@ -1,0 +1,48 @@
+[
+    {
+        "smiles": "CCC1=CC2=C(S1)N(C)C(=O)CN=C2C1=CC=CC=C1Cl",
+        "id": "DB01559",
+        "molecule": "Clotiazepam",
+        "cas": "33671-46-4",
+        "iupac_name": "5-(2-chlorophenyl)-7-ethyl-1-methyl-1H,2H,3H-thieno[2,3-e][1,4]diazepin-2-one",
+        "background": "Clotiazepam is a thienodiazepine, not approved for sale in the U.S. or Canada, but has been approved in the U.K. It is a schedule IV drug in Canada.\n",
+        "inchi": {
+            "hash": "CHBRHODLKOZEPZ-UHFFFAOYSA-N",
+            "id": "InChI=1S/C16H15ClN2OS/c1-3-10-8-12-15(11-6-4-5-7-13(11)17)18-9-14(20)19(2)16(12)21-10/h4-8H,3,9H2,1-2H3"
+        },
+        "summary": "Clotiazepam is a thienodiazepine used to manage anxiety disorders and insomnia.",
+        "weight": [
+            {
+                "type": "average",
+                "weight": 318.821,
+                "units": "Da"
+            },
+            {
+                "type": "monoisotopic",
+                "weight": 318.059361509,
+                "units": "Da"
+            }
+        ],
+        "description": "This compound belongs to the class of organic compounds known as thienodiazepines. These are heteropolycyclic containing a thiophene ring fused to a diazepine ring. Thiophene is 5-membered ring consisting of four carbon and one sulfur atoms. Diazepine is a 7-membered ring consisting of five carbon and two nitrogen atoms.",
+        "link": "https://go.drugbank.com/drugs/DB01559/",
+        "type": "Small Molecule",
+        "synonyms": [
+            "Clotiazepam",
+            "Clotiazepamum"
+        ],
+        "indication": "For the treatment of anxiety disorders.\nReduce drug development failure ratesBuild, train, \u0026 validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, \u0026 validate predictive machine-learning models with structured datasets.See how",
+        "pharmacodynamics": "Clotiazepam is a thienodiazepine possessing anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It increases the stage 2 non-rapid eye movement sleep.\n",
+        "moa": [
+            {
+                "action": "positive allosteric modulator",
+                "organism": "Humans",
+                "target": "AGABA(A) Receptor"
+            },
+            {
+                "action": "ligand",
+                "organism": "Humans",
+                "target": "AGABA(A) Receptor Benzodiazepine Binding Site"
+            }
+        ]
+    }
+]
