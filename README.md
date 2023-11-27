@@ -2,7 +2,7 @@
 ## Go DrugBank Scraper
 
 ### Description
-The Go DrugBank Scraper is a sophisticated web scraping tool written in Go, targeting the DrugBank database to extract comprehensive drug information. It utilizes Go's concurrency features for efficient data retrieval and is equipped with functionalities to handle different modes of data scraping.
+The Go DrugBank Scraper is a sophisticated ( ehm... messy but functional ) web scraping tool written in Go, targeting the DrugBank database to extract comprehensive drug information. It utilizes Go's concurrency features for efficient data retrieval and is equipped with functionalities to handle different modes of data scraping. ***it's also super hackable, this makes it a great tool for learning how to scrape data from the web using Go - as I did with it!! It was certainly a fun project and I hope you get something out of it too!*** Feel free to extend, PR, feature request, repurpose it entirely, or whatever you want to do with it. I'm open to any suggestions and contributions!
 
 ### Features
 - **Concurrent Page Processing**: Employs Go's concurrency for efficient data scraping across multiple pages.
@@ -10,6 +10,8 @@ The Go DrugBank Scraper is a sophisticated web scraping tool written in Go, targ
 - **Resilient and Intelligent**: Implements delay strategies to manage rate limiting and ensure uninterrupted scraping.
 - **Detailed Data Extraction**: Gathers extensive information about drugs, including molecular details, pharmacodynamics, interactions, and more.
 - **Output Serialization**: Provides scraped data in structured JSON format, ready for various applications.
+- **Easy to Use**: Requires only a few command-line arguments to execute.
+- **Extensible & Modular**: Easily extendable and modular for future updates. Example, handler functions for new data fields can be added to the \`main.go\` file, they are called automatically by the scraper depending on the data field being scraped.
 
 ### Installation
 1. **Clone the Repository**:
